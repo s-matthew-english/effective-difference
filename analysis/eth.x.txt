@@ -1,10 +1,2 @@
-Files go-ethereum/eth/downloader/api.go and quorum/eth/downloader/api.go are identical
-Files go-ethereum/eth/downloader/events.go and quorum/eth/downloader/events.go are identical
-Files go-ethereum/eth/downloader/metrics.go and quorum/eth/downloader/metrics.go are identical
-Files go-ethereum/eth/downloader/modes.go and quorum/eth/downloader/modes.go are identical
-Files go-ethereum/eth/downloader/types.go and quorum/eth/downloader/types.go are identical
-Files go-ethereum/eth/fetcher/fetcher.go and quorum/eth/fetcher/fetcher.go are identical
-Files go-ethereum/eth/fetcher/metrics.go and quorum/eth/fetcher/metrics.go are identical
-Files go-ethereum/eth/metrics.go and quorum/eth/metrics.go are identical
-Files go-ethereum/eth/peer.go and quorum/eth/peer.go are identical
+rm go-ethereum/eth/downloader/api.go quorum/eth/downloader/api.go go-ethereum/eth/downloader/events.go quorum/eth/downloader/events.go go-ethereum/eth/downloader/metrics.go quorum/eth/downloader/metrics.go go-ethereum/eth/downloader/modes.go quorum/eth/downloader/modes.go go-ethereum/eth/downloader/types.go quorum/eth/downloader/types.go go-ethereum/eth/fetcher/fetcher.go quorum/eth/fetcher/fetcher.go go-ethereum/eth/fetcher/metrics.go quorum/eth/fetcher/metrics.go go-ethereum/eth/metrics.go quorum/eth/metrics.go go-ethereum/eth/peer.go quorum/eth/peer.go
 

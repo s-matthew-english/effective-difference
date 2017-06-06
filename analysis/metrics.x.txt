@@ -1,2 +1,1 @@
-Files go-ethereum/metrics/disk.go and quorum/metrics/disk.go are identical
-Files go-ethereum/metrics/disk_nop.go and quorum/metrics/disk_nop.go are identical
+rm go-ethereum/metrics/disk.go quorum/metrics/disk.go go-ethereum/metrics/disk_nop.go quorum/metrics/disk_nop.go

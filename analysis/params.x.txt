@@ -1,2 +1,2 @@
-Files go-ethereum/params/dao.go and quorum/params/dao.go are identical
+rm go-ethereum/params/dao.go quorum/params/dao.go 
 

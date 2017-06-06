@@ -1,6 +1,1 @@
-Files go-ethereum/node/defaults.go and quorum/node/defaults.go are identical
-Files go-ethereum/node/doc.go and quorum/node/doc.go are identical
-Files go-ethereum/node/errors.go and quorum/node/errors.go are identical
-Files go-ethereum/node/service.go and quorum/node/service.go are identical
-Files go-ethereum/node/service_test.go and quorum/node/service_test.go are identical
-Files go-ethereum/node/utils_test.go and quorum/node/utils_test.go are identical
+rm go-ethereum/node/defaults.go quorum/node/defaults.go go-ethereum/node/doc.go quorum/node/doc.go go-ethereum/node/errors.go quorum/node/errors.go go-ethereum/node/service.go quorum/node/service.go go-ethereum/node/service_test.go quorum/node/service_test.go go-ethereum/node/utils_test.go quorum/node/utils_test.go

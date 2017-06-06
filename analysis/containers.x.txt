@@ -1,1 +1,1 @@
-Files go-ethereum/containers/vagrant/Vagrantfile and quorum/containers/vagrant/Vagrantfile are identical
+rm go-ethereum/containers/vagrant/Vagrantfile quorum/containers/vagrant/Vagrantfile 

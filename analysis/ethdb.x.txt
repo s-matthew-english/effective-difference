@@ -1,3 +1,1 @@
-Files go-ethereum/ethdb/.gitignore and quorum/ethdb/.gitignore are identical
-Files go-ethereum/ethdb/database_test.go and quorum/ethdb/database_test.go are identical
-Files go-ethereum/ethdb/interface.go and quorum/ethdb/interface.go are identical
+rm go-ethereum/ethdb/.gitignore quorum/ethdb/.gitignore go-ethereum/ethdb/database_test.go quorum/ethdb/database_test.go go-ethereum/ethdb/interface.go quorum/ethdb/interface.go

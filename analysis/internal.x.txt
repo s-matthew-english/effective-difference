@@ -1,11 +1,1 @@
-Files go-ethereum/internal/debug/api.go and quorum/internal/debug/api.go are identical
-Files go-ethereum/internal/debug/flags.go and quorum/internal/debug/flags.go are identical
-Files go-ethereum/internal/debug/loudpanic.go and quorum/internal/debug/loudpanic.go are identical
-Files go-ethereum/internal/debug/loudpanic_fallback.go and quorum/internal/debug/loudpanic_fallback.go are identical
-Files go-ethereum/internal/debug/trace.go and quorum/internal/debug/trace.go are identical
-Files go-ethereum/internal/debug/trace_fallback.go and quorum/internal/debug/trace_fallback.go are identical
-Files go-ethereum/internal/ethapi/solc.go and quorum/internal/ethapi/solc.go are identical
-Files go-ethereum/internal/jsre/completion.go and quorum/internal/jsre/completion.go are identical
-Files go-ethereum/internal/jsre/completion_test.go and quorum/internal/jsre/completion_test.go are identical
-Files go-ethereum/internal/jsre/jsre_test.go and quorum/internal/jsre/jsre_test.go are identical
-
+rm go-ethereum/internal/debug/api.go quorum/internal/debug/api.go go-ethereum/internal/debug/flags.go quorum/internal/debug/flags.go go-ethereum/internal/debug/loudpanic.go quorum/internal/debug/loudpanic.go go-ethereum/internal/debug/loudpanic_fallback.go quorum/internal/debug/loudpanic_fallback.go go-ethereum/internal/debug/trace.go quorum/internal/debug/trace.go go-ethereum/internal/debug/trace_fallback.go quorum/internal/debug/trace_fallback.go go-ethereum/internal/ethapi/solc.go quorum/internal/ethapi/solc.go go-ethereum/internal/jsre/completion.go quorum/internal/jsre/completion.go go-ethereum/internal/jsre/completion_test.go quorum/internal/jsre/completion_test.go go-ethereum/internal/jsre/jsre_test.go quorum/internal/jsre/jsre_test.go

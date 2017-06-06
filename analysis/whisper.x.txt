@@ -1,8 +1,2 @@
-Files go-ethereum/whisper/whisperv2/doc.go and quorum/whisper/whisperv2/doc.go are identical
-Files go-ethereum/whisper/whisperv2/envelope.go and quorum/whisper/whisperv2/envelope.go are identical
-Files go-ethereum/whisper/whisperv2/main.go and quorum/whisper/whisperv2/main.go are identical
-Files go-ethereum/whisper/whisperv2/message.go and quorum/whisper/whisperv2/message.go are identical
-Files go-ethereum/whisper/whisperv2/topic.go and quorum/whisper/whisperv2/topic.go are identical
-Files go-ethereum/whisper/whisperv2/whisper.go and quorum/whisper/whisperv2/whisper.go are identical
-Files go-ethereum/whisper/whisperv2/whisper_test.go and quorum/whisper/whisperv2/whisper_test.go are identical
+rm go-ethereum/whisper/whisperv2/doc.go quorum/whisper/whisperv2/doc.go  go-ethereum/whisper/whisperv2/envelope.go quorum/whisper/whisperv2/envelope.go  go-ethereum/whisper/whisperv2/main.go quorum/whisper/whisperv2/main.go  go-ethereum/whisper/whisperv2/message.go quorum/whisper/whisperv2/message.go  go-ethereum/whisper/whisperv2/topic.go quorum/whisper/whisperv2/topic.go  go-ethereum/whisper/whisperv2/whisper.go quorum/whisper/whisperv2/whisper.go  go-ethereum/whisper/whisperv2/whisper_test.go quorum/whisper/whisperv2/whisper_test.go 
 

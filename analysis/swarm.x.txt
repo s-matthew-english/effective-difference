@@ -1,23 +1,2 @@
-Files go-ethereum/swarm/api/api_test.go and quorum/swarm/api/api_test.go are identical
-Files go-ethereum/swarm/api/manifest_test.go and quorum/swarm/api/manifest_test.go are identical
-Files go-ethereum/swarm/api/storage.go and quorum/swarm/api/storage.go are identical
-Files go-ethereum/swarm/api/storage_test.go and quorum/swarm/api/storage_test.go are identical
-Files go-ethereum/swarm/api/testapi.go and quorum/swarm/api/testapi.go are identical
-Files go-ethereum/swarm/api/testdata/test0/img/logo.png and quorum/swarm/api/testdata/test0/img/logo.png are identical
-Files go-ethereum/swarm/api/testdata/test0/index.css and quorum/swarm/api/testdata/test0/index.css are identical
-Files go-ethereum/swarm/api/testdata/test0/index.html and quorum/swarm/api/testdata/test0/index.html are identical
-Files go-ethereum/swarm/network/forwarding.go and quorum/swarm/network/forwarding.go are identical
-Files go-ethereum/swarm/network/kademlia/address.go and quorum/swarm/network/kademlia/address.go are identical
-Files go-ethereum/swarm/network/kademlia/address_test.go and quorum/swarm/network/kademlia/address_test.go are identical
-Files go-ethereum/swarm/network/kademlia/kaddb.go and quorum/swarm/network/kademlia/kaddb.go are identical
-Files go-ethereum/swarm/network/kademlia/kademlia.go and quorum/swarm/network/kademlia/kademlia.go are identical
-Files go-ethereum/swarm/network/messages.go and quorum/swarm/network/messages.go are identical
-Files go-ethereum/swarm/network/syncdb.go and quorum/swarm/network/syncdb.go are identical
-Files go-ethereum/swarm/services/swap/swap/swap.go and quorum/swarm/services/swap/swap/swap.go are identical
-Files go-ethereum/swarm/services/swap/swap/swap_test.go and quorum/swarm/services/swap/swap/swap_test.go are identical
-Files go-ethereum/swarm/services/swap/swap.go and quorum/swarm/services/swap/swap.go are identical
-Files go-ethereum/swarm/storage/chunker_test.go and quorum/swarm/storage/chunker_test.go are identical
-Files go-ethereum/swarm/storage/database.go and quorum/swarm/storage/database.go are identical
-Files go-ethereum/swarm/storage/memstore_test.go and quorum/swarm/storage/memstore_test.go are identical
-Files go-ethereum/swarm/storage/pyramid.go and quorum/swarm/storage/pyramid.go are identical
+rm go-ethereum/swarm/api/api_test.go quorum/swarm/api/api_test.go go-ethereum/swarm/api/manifest_test.go quorum/swarm/api/manifest_test.go go-ethereum/swarm/api/storage.go quorum/swarm/api/storage.go go-ethereum/swarm/api/storage_test.go quorum/swarm/api/storage_test.go go-ethereum/swarm/api/testapi.go quorum/swarm/api/testapi.go go-ethereum/swarm/api/testdata/test0/img/logo.png quorum/swarm/api/testdata/test0/img/logo.png go-ethereum/swarm/api/testdata/test0/index.css quorum/swarm/api/testdata/test0/index.css go-ethereum/swarm/api/testdata/test0/index.html quorum/swarm/api/testdata/test0/index.html go-ethereum/swarm/network/forwarding.go quorum/swarm/network/forwarding.go go-ethereum/swarm/network/kademlia/address.go quorum/swarm/network/kademlia/address.go go-ethereum/swarm/network/kademlia/address_test.go quorum/swarm/network/kademlia/address_test.go go-ethereum/swarm/network/kademlia/kaddb.go quorum/swarm/network/kademlia/kaddb.go go-ethereum/swarm/network/kademlia/kademlia.go quorum/swarm/network/kademlia/kademlia.go go-ethereum/swarm/network/messages.go quorum/swarm/network/messages.go go-ethereum/swarm/network/syncdb.go quorum/swarm/network/syncdb.go go-ethereum/swarm/services/swap/swap/swap.go quorum/swarm/services/swap/swap/swap.go go-ethereum/swarm/services/swap/swap/swap_test.go quorum/swarm/services/swap/swap/swap_test.go go-ethereum/swarm/services/swap/swap.go quorum/swarm/services/swap/swap.go go-ethereum/swarm/storage/chunker_test.go quorum/swarm/storage/chunker_test.go go-ethereum/swarm/storage/database.go quorum/swarm/storage/database.go go-ethereum/swarm/storage/memstore_test.go quorum/swarm/storage/memstore_test.go go-ethereum/swarm/storage/pyramid.go quorum/swarm/storage/pyramid.go
 

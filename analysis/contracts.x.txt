@@ -1,11 +1,1 @@
-Files go-ethereum/contracts/chequebook/api.go and quorum/contracts/chequebook/api.go are identical
-Files go-ethereum/contracts/chequebook/contract/chequebook.go and quorum/contracts/chequebook/contract/chequebook.go are identical
-Files go-ethereum/contracts/chequebook/contract/chequebook.sol and quorum/contracts/chequebook/contract/chequebook.sol are identical
-Files go-ethereum/contracts/chequebook/contract/code.go and quorum/contracts/chequebook/contract/code.go are identical
-Files go-ethereum/contracts/chequebook/gencode.go and quorum/contracts/chequebook/gencode.go are identical
-Files go-ethereum/contracts/ens/README.md and quorum/contracts/ens/README.md are identical
-Files go-ethereum/contracts/ens/contract/ens.go and quorum/contracts/ens/contract/ens.go are identical
-Files go-ethereum/contracts/ens/contract/ens.sol and quorum/contracts/ens/contract/ens.sol are identical
-Files go-ethereum/contracts/ens/ens.go and quorum/contracts/ens/ens.go are identical
-Files go-ethereum/contracts/release/contract.go and quorum/contracts/release/contract.go are identical
-Files go-ethereum/contracts/release/contract_test.go and quorum/contracts/release/contract_test.go are identical
+rm go-ethereum/contracts/chequebook/api.go quorum/contracts/chequebook/api.go go-ethereum/contracts/chequebook/contract/chequebook.go quorum/contracts/chequebook/contract/chequebook.go go-ethereum/contracts/chequebook/contract/chequebook.sol quorum/contracts/chequebook/contract/chequebook.sol go-ethereum/contracts/chequebook/contract/code.go quorum/contracts/chequebook/contract/code.go go-ethereum/contracts/chequebook/gencode.go quorum/contracts/chequebook/gencode.go go-ethereum/contracts/ens/README.md quorum/contracts/ens/README.md go-ethereum/contracts/ens/contract/ens.go quorum/contracts/ens/contract/ens.go go-ethereum/contracts/ens/contract/ens.sol quorum/contracts/ens/contract/ens.sol go-ethereum/contracts/ens/ens.go quorum/contracts/ens/ens.go go-ethereum/contracts/release/contract.go quorum/contracts/release/contract.go go-ethereum/contracts/release/contract_test.go quorum/contracts/release/contract_test.go

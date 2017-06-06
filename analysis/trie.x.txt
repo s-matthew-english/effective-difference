@@ -1,9 +1,1 @@
-Files go-ethereum/trie/encoding_test.go and quorum/trie/encoding_test.go are identical
-Files go-ethereum/trie/errors.go and quorum/trie/errors.go are identical
-Files go-ethereum/trie/iterator.go and quorum/trie/iterator.go are identical
-Files go-ethereum/trie/node.go and quorum/trie/node.go are identical
-Files go-ethereum/trie/node_test.go and quorum/trie/node_test.go are identical
-Files go-ethereum/trie/proof.go and quorum/trie/proof.go are identical
-Files go-ethereum/trie/proof_test.go and quorum/trie/proof_test.go are identical
-Files go-ethereum/trie/secure_trie.go and quorum/trie/secure_trie.go are identical
-Files go-ethereum/trie/secure_trie_test.go and quorum/trie/secure_trie_test.go are identical
+rm go-ethereum/trie/encoding_test.go quorum/trie/encoding_test.go go-ethereum/trie/errors.go quorum/trie/errors.go go-ethereum/trie/iterator.go quorum/trie/iterator.go go-ethereum/trie/node.go quorum/trie/node.go go-ethereum/trie/node_test.go quorum/trie/node_test.go go-ethereum/trie/proof.go quorum/trie/proof.go go-ethereum/trie/proof_test.go quorum/trie/proof_test.go go-ethereum/trie/secure_trie.go quorum/trie/secure_trie.go go-ethereum/trie/secure_trie_test.go quorum/trie/secure_trie_test.go

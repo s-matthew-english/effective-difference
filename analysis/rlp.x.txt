@@ -1,10 +1,1 @@
-Files go-ethereum/rlp/decode.go and quorum/rlp/decode.go are identical
-Files go-ethereum/rlp/decode_tail_test.go and quorum/rlp/decode_tail_test.go are identical
-Files go-ethereum/rlp/decode_test.go and quorum/rlp/decode_test.go are identical
-Files go-ethereum/rlp/doc.go and quorum/rlp/doc.go are identical
-Files go-ethereum/rlp/encode.go and quorum/rlp/encode.go are identical
-Files go-ethereum/rlp/encode_test.go and quorum/rlp/encode_test.go are identical
-Files go-ethereum/rlp/encoder_example_test.go and quorum/rlp/encoder_example_test.go are identical
-Files go-ethereum/rlp/raw.go and quorum/rlp/raw.go are identical
-Files go-ethereum/rlp/raw_test.go and quorum/rlp/raw_test.go are identical
-Files go-ethereum/rlp/typecache.go and quorum/rlp/typecache.go are identical
+rm go-ethereum/rlp/decode.go quorum/rlp/decode.go go-ethereum/rlp/decode_tail_test.go quorum/rlp/decode_tail_test.go go-ethereum/rlp/decode_test.go quorum/rlp/decode_test.go go-ethereum/rlp/doc.go quorum/rlp/doc.go go-ethereum/rlp/encode.go quorum/rlp/encode.go go-ethereum/rlp/encode_test.go quorum/rlp/encode_test.go go-ethereum/rlp/encoder_example_test.go quorum/rlp/encoder_example_test.go go-ethereum/rlp/raw.go quorum/rlp/raw.go go-ethereum/rlp/raw_test.go quorum/rlp/raw_test.go go-ethereum/rlp/typecache.go quorum/rlp/typecache.go
