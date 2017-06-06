@@ -1,4 +1,4 @@
-### The Quorum Node includes the following modifications to geth:
+# The Quorum Node includes the following modifications to geth:
 
 ## ‘Proof of work’ consensus algorithm has been replaced with ‘QuorumChain’ consensus, a vote-based consensus mechanism.
 
