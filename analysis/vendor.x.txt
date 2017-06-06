@@ -1,26 +1,10 @@
-Only in go-ethereum/vendor/github.com: Azure
-Only in quorum/vendor/github.com: BurntSushi
-Only in go-ethereum/vendor/github.com: aristanetworks
-Only in quorum/vendor/github.com: beorn7
 Files go-ethereum/vendor/github.com/cespare/cp/LICENSE.txt and quorum/vendor/github.com/cespare/cp/LICENSE.txt are identical
 Files go-ethereum/vendor/github.com/cespare/cp/README.md and quorum/vendor/github.com/cespare/cp/README.md are identical
 Files go-ethereum/vendor/github.com/cespare/cp/cp.go and quorum/vendor/github.com/cespare/cp/cp.go are identical
-Only in quorum/vendor/github.com: coreos
 Files go-ethereum/vendor/github.com/davecgh/go-spew/.gitignore and quorum/vendor/github.com/davecgh/go-spew/.gitignore are identical
 Files go-ethereum/vendor/github.com/davecgh/go-spew/.travis.yml and quorum/vendor/github.com/davecgh/go-spew/.travis.yml are identical
-Files go-ethereum/vendor/github.com/davecgh/go-spew/LICENSE and quorum/vendor/github.com/davecgh/go-spew/LICENSE differ
-Files go-ethereum/vendor/github.com/davecgh/go-spew/README.md and quorum/vendor/github.com/davecgh/go-spew/README.md differ
 Files go-ethereum/vendor/github.com/davecgh/go-spew/cov_report.sh and quorum/vendor/github.com/davecgh/go-spew/cov_report.sh are identical
-Files go-ethereum/vendor/github.com/davecgh/go-spew/spew/bypass.go and quorum/vendor/github.com/davecgh/go-spew/spew/bypass.go differ
-Files go-ethereum/vendor/github.com/davecgh/go-spew/spew/bypasssafe.go and quorum/vendor/github.com/davecgh/go-spew/spew/bypasssafe.go differ
-Files go-ethereum/vendor/github.com/davecgh/go-spew/spew/common.go and quorum/vendor/github.com/davecgh/go-spew/spew/common.go differ
-Files go-ethereum/vendor/github.com/davecgh/go-spew/spew/config.go and quorum/vendor/github.com/davecgh/go-spew/spew/config.go differ
-Files go-ethereum/vendor/github.com/davecgh/go-spew/spew/doc.go and quorum/vendor/github.com/davecgh/go-spew/spew/doc.go differ
-Files go-ethereum/vendor/github.com/davecgh/go-spew/spew/dump.go and quorum/vendor/github.com/davecgh/go-spew/spew/dump.go differ
-Files go-ethereum/vendor/github.com/davecgh/go-spew/spew/format.go and quorum/vendor/github.com/davecgh/go-spew/spew/format.go differ
-Files go-ethereum/vendor/github.com/davecgh/go-spew/spew/spew.go and quorum/vendor/github.com/davecgh/go-spew/spew/spew.go differ
 Files go-ethereum/vendor/github.com/davecgh/go-spew/test_coverage.txt and quorum/vendor/github.com/davecgh/go-spew/test_coverage.txt are identical
-Only in quorum/vendor/github.com: eapache
 Files go-ethereum/vendor/github.com/ethereum/ethash/.gitignore and quorum/vendor/github.com/ethereum/ethash/.gitignore are identical
 Files go-ethereum/vendor/github.com/ethereum/ethash/.travis.yml and quorum/vendor/github.com/ethereum/ethash/.travis.yml are identical
 Files go-ethereum/vendor/github.com/ethereum/ethash/CMakeLists.txt and quorum/vendor/github.com/ethereum/ethash/CMakeLists.txt are identical
@@ -54,43 +38,11 @@ Files go-ethereum/vendor/github.com/ethereum/ethash/src/libethash/util.h and quo
 Files go-ethereum/vendor/github.com/ethereum/ethash/src/libethash/util_win32.c and quorum/vendor/github.com/ethereum/ethash/src/libethash/util_win32.c are identical
 Files go-ethereum/vendor/github.com/fatih/color/.travis.yml and quorum/vendor/github.com/fatih/color/.travis.yml are identical
 Files go-ethereum/vendor/github.com/fatih/color/LICENSE.md and quorum/vendor/github.com/fatih/color/LICENSE.md are identical
-Files go-ethereum/vendor/github.com/fatih/color/README.md and quorum/vendor/github.com/fatih/color/README.md differ
-Files go-ethereum/vendor/github.com/fatih/color/color.go and quorum/vendor/github.com/fatih/color/color.go differ
-Files go-ethereum/vendor/github.com/fatih/color/doc.go and quorum/vendor/github.com/fatih/color/doc.go differ
 Files go-ethereum/vendor/github.com/gizak/termui/.gitignore and quorum/vendor/github.com/gizak/termui/.gitignore are identical
 Files go-ethereum/vendor/github.com/gizak/termui/.travis.yml and quorum/vendor/github.com/gizak/termui/.travis.yml are identical
 Files go-ethereum/vendor/github.com/gizak/termui/LICENSE and quorum/vendor/github.com/gizak/termui/LICENSE are identical
 Files go-ethereum/vendor/github.com/gizak/termui/README.md and quorum/vendor/github.com/gizak/termui/README.md are identical
-Files go-ethereum/vendor/github.com/gizak/termui/barchart.go and quorum/vendor/github.com/gizak/termui/barchart.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/block.go and quorum/vendor/github.com/gizak/termui/block.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/block_common.go and quorum/vendor/github.com/gizak/termui/block_common.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/block_windows.go and quorum/vendor/github.com/gizak/termui/block_windows.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/buffer.go and quorum/vendor/github.com/gizak/termui/buffer.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/canvas.go and quorum/vendor/github.com/gizak/termui/canvas.go differ
-Only in quorum/vendor/github.com/gizak/termui: config
-Only in go-ethereum/vendor/github.com/gizak/termui: config.py
-Files go-ethereum/vendor/github.com/gizak/termui/doc.go and quorum/vendor/github.com/gizak/termui/doc.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/events.go and quorum/vendor/github.com/gizak/termui/events.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/gauge.go and quorum/vendor/github.com/gizak/termui/gauge.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/glide.lock and quorum/vendor/github.com/gizak/termui/glide.lock differ
-Files go-ethereum/vendor/github.com/gizak/termui/glide.yaml and quorum/vendor/github.com/gizak/termui/glide.yaml differ
-Files go-ethereum/vendor/github.com/gizak/termui/grid.go and quorum/vendor/github.com/gizak/termui/grid.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/helper.go and quorum/vendor/github.com/gizak/termui/helper.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/linechart.go and quorum/vendor/github.com/gizak/termui/linechart.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/linechart_others.go and quorum/vendor/github.com/gizak/termui/linechart_others.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/linechart_windows.go and quorum/vendor/github.com/gizak/termui/linechart_windows.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/list.go and quorum/vendor/github.com/gizak/termui/list.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/mbarchart.go and quorum/vendor/github.com/gizak/termui/mbarchart.go differ
 Files go-ethereum/vendor/github.com/gizak/termui/mkdocs.yml and quorum/vendor/github.com/gizak/termui/mkdocs.yml are identical
-Files go-ethereum/vendor/github.com/gizak/termui/par.go and quorum/vendor/github.com/gizak/termui/par.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/pos.go and quorum/vendor/github.com/gizak/termui/pos.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/render.go and quorum/vendor/github.com/gizak/termui/render.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/sparkline.go and quorum/vendor/github.com/gizak/termui/sparkline.go differ
-Only in go-ethereum/vendor/github.com/gizak/termui: table.go
-Files go-ethereum/vendor/github.com/gizak/termui/textbuilder.go and quorum/vendor/github.com/gizak/termui/textbuilder.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/theme.go and quorum/vendor/github.com/gizak/termui/theme.go differ
-Files go-ethereum/vendor/github.com/gizak/termui/widget.go and quorum/vendor/github.com/gizak/termui/widget.go differ
-Only in quorum/vendor/github.com/golang: protobuf
 Files go-ethereum/vendor/github.com/golang/snappy/.gitignore and quorum/vendor/github.com/golang/snappy/.gitignore are identical
 Files go-ethereum/vendor/github.com/golang/snappy/AUTHORS and quorum/vendor/github.com/golang/snappy/AUTHORS are identical
 Files go-ethereum/vendor/github.com/golang/snappy/CONTRIBUTORS and quorum/vendor/github.com/golang/snappy/CONTRIBUTORS are identical
@@ -114,7 +66,6 @@ Files go-ethereum/vendor/github.com/hashicorp/golang-lru/lru.go and quorum/vendo
 Files go-ethereum/vendor/github.com/hashicorp/golang-lru/simplelru/lru.go and quorum/vendor/github.com/hashicorp/golang-lru/simplelru/lru.go are identical
 Files go-ethereum/vendor/github.com/huin/goupnp/.gitignore and quorum/vendor/github.com/huin/goupnp/.gitignore are identical
 Files go-ethereum/vendor/github.com/huin/goupnp/LICENSE and quorum/vendor/github.com/huin/goupnp/LICENSE are identical
-Files go-ethereum/vendor/github.com/huin/goupnp/README.md and quorum/vendor/github.com/huin/goupnp/README.md differ
 Files go-ethereum/vendor/github.com/huin/goupnp/dcps/internetgateway1/internetgateway1.go and quorum/vendor/github.com/huin/goupnp/dcps/internetgateway1/internetgateway1.go are identical
 Files go-ethereum/vendor/github.com/huin/goupnp/dcps/internetgateway2/internetgateway2.go and quorum/vendor/github.com/huin/goupnp/dcps/internetgateway2/internetgateway2.go are identical
 Files go-ethereum/vendor/github.com/huin/goupnp/device.go and quorum/vendor/github.com/huin/goupnp/device.go are identical
@@ -125,7 +76,6 @@ Files go-ethereum/vendor/github.com/huin/goupnp/scpd/scpd.go and quorum/vendor/g
 Files go-ethereum/vendor/github.com/huin/goupnp/service_client.go and quorum/vendor/github.com/huin/goupnp/service_client.go are identical
 Files go-ethereum/vendor/github.com/huin/goupnp/soap/soap.go and quorum/vendor/github.com/huin/goupnp/soap/soap.go are identical
 Files go-ethereum/vendor/github.com/huin/goupnp/soap/types.go and quorum/vendor/github.com/huin/goupnp/soap/types.go are identical
-Files go-ethereum/vendor/github.com/huin/goupnp/ssdp/registry.go and quorum/vendor/github.com/huin/goupnp/ssdp/registry.go differ
 Files go-ethereum/vendor/github.com/huin/goupnp/ssdp/ssdp.go and quorum/vendor/github.com/huin/goupnp/ssdp/ssdp.go are identical
 Files go-ethereum/vendor/github.com/jackpal/go-nat-pmp/.travis.yml and quorum/vendor/github.com/jackpal/go-nat-pmp/.travis.yml are identical
 Files go-ethereum/vendor/github.com/jackpal/go-nat-pmp/LICENSE and quorum/vendor/github.com/jackpal/go-nat-pmp/LICENSE are identical
@@ -133,14 +83,9 @@ Files go-ethereum/vendor/github.com/jackpal/go-nat-pmp/README.md and quorum/vend
 Files go-ethereum/vendor/github.com/jackpal/go-nat-pmp/natpmp.go and quorum/vendor/github.com/jackpal/go-nat-pmp/natpmp.go are identical
 Files go-ethereum/vendor/github.com/jackpal/go-nat-pmp/network.go and quorum/vendor/github.com/jackpal/go-nat-pmp/network.go are identical
 Files go-ethereum/vendor/github.com/jackpal/go-nat-pmp/recorder.go and quorum/vendor/github.com/jackpal/go-nat-pmp/recorder.go are identical
-Only in go-ethereum/vendor/github.com: karalabe
-Only in go-ethereum/vendor/github.com: maruel
 Files go-ethereum/vendor/github.com/mattn/go-colorable/.travis.yml and quorum/vendor/github.com/mattn/go-colorable/.travis.yml are identical
 Files go-ethereum/vendor/github.com/mattn/go-colorable/LICENSE and quorum/vendor/github.com/mattn/go-colorable/LICENSE are identical
 Files go-ethereum/vendor/github.com/mattn/go-colorable/README.md and quorum/vendor/github.com/mattn/go-colorable/README.md are identical
-Files go-ethereum/vendor/github.com/mattn/go-colorable/colorable_others.go and quorum/vendor/github.com/mattn/go-colorable/colorable_others.go differ
-Files go-ethereum/vendor/github.com/mattn/go-colorable/colorable_windows.go and quorum/vendor/github.com/mattn/go-colorable/colorable_windows.go differ
-Files go-ethereum/vendor/github.com/mattn/go-colorable/noncolorable.go and quorum/vendor/github.com/mattn/go-colorable/noncolorable.go differ
 Files go-ethereum/vendor/github.com/mattn/go-isatty/LICENSE and quorum/vendor/github.com/mattn/go-isatty/LICENSE are identical
 Files go-ethereum/vendor/github.com/mattn/go-isatty/README.md and quorum/vendor/github.com/mattn/go-isatty/README.md are identical
 Files go-ethereum/vendor/github.com/mattn/go-isatty/doc.go and quorum/vendor/github.com/mattn/go-isatty/doc.go are identical
@@ -156,14 +101,11 @@ Files go-ethereum/vendor/github.com/mattn/go-runewidth/runewidth.go and quorum/v
 Files go-ethereum/vendor/github.com/mattn/go-runewidth/runewidth_js.go and quorum/vendor/github.com/mattn/go-runewidth/runewidth_js.go are identical
 Files go-ethereum/vendor/github.com/mattn/go-runewidth/runewidth_posix.go and quorum/vendor/github.com/mattn/go-runewidth/runewidth_posix.go are identical
 Files go-ethereum/vendor/github.com/mattn/go-runewidth/runewidth_windows.go and quorum/vendor/github.com/mattn/go-runewidth/runewidth_windows.go are identical
-Only in quorum/vendor/github.com: matttproud
 Files go-ethereum/vendor/github.com/mitchellh/go-wordwrap/LICENSE.md and quorum/vendor/github.com/mitchellh/go-wordwrap/LICENSE.md are identical
 Files go-ethereum/vendor/github.com/mitchellh/go-wordwrap/README.md and quorum/vendor/github.com/mitchellh/go-wordwrap/README.md are identical
 Files go-ethereum/vendor/github.com/mitchellh/go-wordwrap/wordwrap.go and quorum/vendor/github.com/mitchellh/go-wordwrap/wordwrap.go are identical
 Files go-ethereum/vendor/github.com/nsf/termbox-go/AUTHORS and quorum/vendor/github.com/nsf/termbox-go/AUTHORS are identical
 Files go-ethereum/vendor/github.com/nsf/termbox-go/LICENSE and quorum/vendor/github.com/nsf/termbox-go/LICENSE are identical
-Files go-ethereum/vendor/github.com/nsf/termbox-go/README.md and quorum/vendor/github.com/nsf/termbox-go/README.md differ
-Files go-ethereum/vendor/github.com/nsf/termbox-go/api.go and quorum/vendor/github.com/nsf/termbox-go/api.go differ
 Files go-ethereum/vendor/github.com/nsf/termbox-go/api_common.go and quorum/vendor/github.com/nsf/termbox-go/api_common.go are identical
 Files go-ethereum/vendor/github.com/nsf/termbox-go/api_windows.go and quorum/vendor/github.com/nsf/termbox-go/api_windows.go are identical
 Files go-ethereum/vendor/github.com/nsf/termbox-go/collect_terminfo.py and quorum/vendor/github.com/nsf/termbox-go/collect_terminfo.py are identical
@@ -176,17 +118,14 @@ Files go-ethereum/vendor/github.com/nsf/termbox-go/syscalls_linux.go and quorum/
 Files go-ethereum/vendor/github.com/nsf/termbox-go/syscalls_netbsd.go and quorum/vendor/github.com/nsf/termbox-go/syscalls_netbsd.go are identical
 Files go-ethereum/vendor/github.com/nsf/termbox-go/syscalls_openbsd.go and quorum/vendor/github.com/nsf/termbox-go/syscalls_openbsd.go are identical
 Files go-ethereum/vendor/github.com/nsf/termbox-go/syscalls_windows.go and quorum/vendor/github.com/nsf/termbox-go/syscalls_windows.go are identical
-Files go-ethereum/vendor/github.com/nsf/termbox-go/termbox.go and quorum/vendor/github.com/nsf/termbox-go/termbox.go differ
 Files go-ethereum/vendor/github.com/nsf/termbox-go/termbox_common.go and quorum/vendor/github.com/nsf/termbox-go/termbox_common.go are identical
 Files go-ethereum/vendor/github.com/nsf/termbox-go/termbox_windows.go and quorum/vendor/github.com/nsf/termbox-go/termbox_windows.go are identical
 Files go-ethereum/vendor/github.com/nsf/termbox-go/terminfo.go and quorum/vendor/github.com/nsf/termbox-go/terminfo.go are identical
 Files go-ethereum/vendor/github.com/nsf/termbox-go/terminfo_builtin.go and quorum/vendor/github.com/nsf/termbox-go/terminfo_builtin.go are identical
-Only in quorum/vendor/github.com: patrickmn
 Files go-ethereum/vendor/github.com/pborman/uuid/.travis.yml and quorum/vendor/github.com/pborman/uuid/.travis.yml are identical
 Files go-ethereum/vendor/github.com/pborman/uuid/CONTRIBUTING.md and quorum/vendor/github.com/pborman/uuid/CONTRIBUTING.md are identical
 Files go-ethereum/vendor/github.com/pborman/uuid/CONTRIBUTORS and quorum/vendor/github.com/pborman/uuid/CONTRIBUTORS are identical
 Files go-ethereum/vendor/github.com/pborman/uuid/LICENSE and quorum/vendor/github.com/pborman/uuid/LICENSE are identical
-Files go-ethereum/vendor/github.com/pborman/uuid/README.md and quorum/vendor/github.com/pborman/uuid/README.md differ
 Files go-ethereum/vendor/github.com/pborman/uuid/dce.go and quorum/vendor/github.com/pborman/uuid/dce.go are identical
 Files go-ethereum/vendor/github.com/pborman/uuid/doc.go and quorum/vendor/github.com/pborman/uuid/doc.go are identical
 Files go-ethereum/vendor/github.com/pborman/uuid/hash.go and quorum/vendor/github.com/pborman/uuid/hash.go are identical
@@ -201,20 +140,12 @@ Files go-ethereum/vendor/github.com/pborman/uuid/version4.go and quorum/vendor/g
 Files go-ethereum/vendor/github.com/peterh/liner/COPYING and quorum/vendor/github.com/peterh/liner/COPYING are identical
 Files go-ethereum/vendor/github.com/peterh/liner/README.md and quorum/vendor/github.com/peterh/liner/README.md are identical
 Files go-ethereum/vendor/github.com/peterh/liner/bsdinput.go and quorum/vendor/github.com/peterh/liner/bsdinput.go are identical
-Files go-ethereum/vendor/github.com/peterh/liner/common.go and quorum/vendor/github.com/peterh/liner/common.go differ
 Files go-ethereum/vendor/github.com/peterh/liner/fallbackinput.go and quorum/vendor/github.com/peterh/liner/fallbackinput.go are identical
-Files go-ethereum/vendor/github.com/peterh/liner/input.go and quorum/vendor/github.com/peterh/liner/input.go differ
 Files go-ethereum/vendor/github.com/peterh/liner/input_darwin.go and quorum/vendor/github.com/peterh/liner/input_darwin.go are identical
 Files go-ethereum/vendor/github.com/peterh/liner/input_linux.go and quorum/vendor/github.com/peterh/liner/input_linux.go are identical
-Files go-ethereum/vendor/github.com/peterh/liner/input_windows.go and quorum/vendor/github.com/peterh/liner/input_windows.go differ
-Files go-ethereum/vendor/github.com/peterh/liner/line.go and quorum/vendor/github.com/peterh/liner/line.go differ
 Files go-ethereum/vendor/github.com/peterh/liner/output.go and quorum/vendor/github.com/peterh/liner/output.go are identical
 Files go-ethereum/vendor/github.com/peterh/liner/output_windows.go and quorum/vendor/github.com/peterh/liner/output_windows.go are identical
-Only in quorum/vendor/github.com/peterh/liner: signal.go
-Only in quorum/vendor/github.com/peterh/liner: signal_legacy.go
 Files go-ethereum/vendor/github.com/peterh/liner/unixmode.go and quorum/vendor/github.com/peterh/liner/unixmode.go are identical
-Files go-ethereum/vendor/github.com/peterh/liner/width.go and quorum/vendor/github.com/peterh/liner/width.go differ
-Only in quorum/vendor/github.com: prometheus
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/.gitignore and quorum/vendor/github.com/rcrowley/go-metrics/.gitignore are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/.travis.yml and quorum/vendor/github.com/rcrowley/go-metrics/.travis.yml are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/LICENSE and quorum/vendor/github.com/rcrowley/go-metrics/LICENSE are identical
@@ -223,7 +154,6 @@ Files go-ethereum/vendor/github.com/rcrowley/go-metrics/counter.go and quorum/ve
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/debug.go and quorum/vendor/github.com/rcrowley/go-metrics/debug.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/ewma.go and quorum/vendor/github.com/rcrowley/go-metrics/ewma.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/exp/exp.go and quorum/vendor/github.com/rcrowley/go-metrics/exp/exp.go are identical
-Files go-ethereum/vendor/github.com/rcrowley/go-metrics/gauge.go and quorum/vendor/github.com/rcrowley/go-metrics/gauge.go differ
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/gauge_float64.go and quorum/vendor/github.com/rcrowley/go-metrics/gauge_float64.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/graphite.go and quorum/vendor/github.com/rcrowley/go-metrics/graphite.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/healthcheck.go and quorum/vendor/github.com/rcrowley/go-metrics/healthcheck.go are identical
@@ -234,13 +164,11 @@ Files go-ethereum/vendor/github.com/rcrowley/go-metrics/memory.md and quorum/ven
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/meter.go and quorum/vendor/github.com/rcrowley/go-metrics/meter.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/metrics.go and quorum/vendor/github.com/rcrowley/go-metrics/metrics.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/opentsdb.go and quorum/vendor/github.com/rcrowley/go-metrics/opentsdb.go are identical
-Files go-ethereum/vendor/github.com/rcrowley/go-metrics/registry.go and quorum/vendor/github.com/rcrowley/go-metrics/registry.go differ
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/runtime.go and quorum/vendor/github.com/rcrowley/go-metrics/runtime.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/runtime_cgo.go and quorum/vendor/github.com/rcrowley/go-metrics/runtime_cgo.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/runtime_gccpufraction.go and quorum/vendor/github.com/rcrowley/go-metrics/runtime_gccpufraction.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/runtime_no_cgo.go and quorum/vendor/github.com/rcrowley/go-metrics/runtime_no_cgo.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/runtime_no_gccpufraction.go and quorum/vendor/github.com/rcrowley/go-metrics/runtime_no_gccpufraction.go are identical
-Files go-ethereum/vendor/github.com/rcrowley/go-metrics/sample.go and quorum/vendor/github.com/rcrowley/go-metrics/sample.go differ
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/syslog.go and quorum/vendor/github.com/rcrowley/go-metrics/syslog.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/timer.go and quorum/vendor/github.com/rcrowley/go-metrics/timer.go are identical
 Files go-ethereum/vendor/github.com/rcrowley/go-metrics/validate.sh and quorum/vendor/github.com/rcrowley/go-metrics/validate.sh are identical
@@ -406,10 +334,8 @@ Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/key.go and quorum/v
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/memdb/memdb.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/memdb/memdb.go are identical
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/opt/options.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/opt/options.go are identical
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/options.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/options.go are identical
-Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/session.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/session.go differ
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/session_compaction.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/session_compaction.go are identical
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/session_record.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/session_record.go are identical
-Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/session_util.go differ
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/storage/file_storage.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/storage/file_storage.go are identical
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/storage/file_storage_nacl.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/storage/file_storage_nacl.go are identical
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/storage/file_storage_plan9.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/storage/file_storage_plan9.go are identical
@@ -429,9 +355,6 @@ Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/util/hash.go and qu
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/util/range.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/util/range.go are identical
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/util/util.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/util/util.go are identical
 Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/util.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/util.go are identical
-Files go-ethereum/vendor/github.com/syndtr/goleveldb/leveldb/version.go and quorum/vendor/github.com/syndtr/goleveldb/leveldb/version.go differ
-Only in quorum/vendor/github.com: tv42
-Only in quorum/vendor/github.com: xiang90
 Files go-ethereum/vendor/golang.org/x/crypto/.gitattributes and quorum/vendor/golang.org/x/crypto/.gitattributes are identical
 Files go-ethereum/vendor/golang.org/x/crypto/.gitignore and quorum/vendor/golang.org/x/crypto/.gitignore are identical
 Files go-ethereum/vendor/golang.org/x/crypto/AUTHORS and quorum/vendor/golang.org/x/crypto/AUTHORS are identical
@@ -440,9 +363,7 @@ Files go-ethereum/vendor/golang.org/x/crypto/CONTRIBUTORS and quorum/vendor/gola
 Files go-ethereum/vendor/golang.org/x/crypto/LICENSE and quorum/vendor/golang.org/x/crypto/LICENSE are identical
 Files go-ethereum/vendor/golang.org/x/crypto/PATENTS and quorum/vendor/golang.org/x/crypto/PATENTS are identical
 Files go-ethereum/vendor/golang.org/x/crypto/README and quorum/vendor/golang.org/x/crypto/README are identical
-Only in go-ethereum/vendor/golang.org/x/crypto: cast5
 Files go-ethereum/vendor/golang.org/x/crypto/codereview.cfg and quorum/vendor/golang.org/x/crypto/codereview.cfg are identical
-Only in go-ethereum/vendor/golang.org/x/crypto: openpgp
 Files go-ethereum/vendor/golang.org/x/crypto/pbkdf2/pbkdf2.go and quorum/vendor/golang.org/x/crypto/pbkdf2/pbkdf2.go are identical
 Files go-ethereum/vendor/golang.org/x/crypto/ripemd160/ripemd160.go and quorum/vendor/golang.org/x/crypto/ripemd160/ripemd160.go are identical
 Files go-ethereum/vendor/golang.org/x/crypto/ripemd160/ripemd160block.go and quorum/vendor/golang.org/x/crypto/ripemd160/ripemd160block.go are identical
@@ -474,7 +395,6 @@ Files go-ethereum/vendor/golang.org/x/net/websocket/client.go and quorum/vendor/
 Files go-ethereum/vendor/golang.org/x/net/websocket/dial.go and quorum/vendor/golang.org/x/net/websocket/dial.go are identical
 Files go-ethereum/vendor/golang.org/x/net/websocket/hybi.go and quorum/vendor/golang.org/x/net/websocket/hybi.go are identical
 Files go-ethereum/vendor/golang.org/x/net/websocket/server.go and quorum/vendor/golang.org/x/net/websocket/server.go are identical
-Files go-ethereum/vendor/golang.org/x/net/websocket/websocket.go and quorum/vendor/golang.org/x/net/websocket/websocket.go differ
 Files go-ethereum/vendor/golang.org/x/sys/.gitattributes and quorum/vendor/golang.org/x/sys/.gitattributes are identical
 Files go-ethereum/vendor/golang.org/x/sys/.gitignore and quorum/vendor/golang.org/x/sys/.gitignore are identical
 Files go-ethereum/vendor/golang.org/x/sys/AUTHORS and quorum/vendor/golang.org/x/sys/AUTHORS are identical
@@ -499,7 +419,6 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/asm_linux_amd64.s and quorum/vend
 Files go-ethereum/vendor/golang.org/x/sys/unix/asm_linux_arm.s and quorum/vendor/golang.org/x/sys/unix/asm_linux_arm.s are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/asm_linux_arm64.s and quorum/vendor/golang.org/x/sys/unix/asm_linux_arm64.s are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/asm_linux_mips64x.s and quorum/vendor/golang.org/x/sys/unix/asm_linux_mips64x.s are identical
-Only in go-ethereum/vendor/golang.org/x/sys/unix: asm_linux_mipsx.s
 Files go-ethereum/vendor/golang.org/x/sys/unix/asm_linux_ppc64x.s and quorum/vendor/golang.org/x/sys/unix/asm_linux_ppc64x.s are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/asm_linux_s390x.s and quorum/vendor/golang.org/x/sys/unix/asm_linux_s390x.s are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/asm_netbsd_386.s and quorum/vendor/golang.org/x/sys/unix/asm_netbsd_386.s are identical
@@ -513,13 +432,11 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/constants.go and quorum/vendor/go
 Files go-ethereum/vendor/golang.org/x/sys/unix/env_unix.go and quorum/vendor/golang.org/x/sys/unix/env_unix.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/env_unset.go and quorum/vendor/golang.org/x/sys/unix/env_unset.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/flock.go and quorum/vendor/golang.org/x/sys/unix/flock.go are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/flock_linux_32bit.go and quorum/vendor/golang.org/x/sys/unix/flock_linux_32bit.go differ
 Files go-ethereum/vendor/golang.org/x/sys/unix/gccgo.go and quorum/vendor/golang.org/x/sys/unix/gccgo.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/gccgo_c.c and quorum/vendor/golang.org/x/sys/unix/gccgo_c.c are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/gccgo_linux_amd64.go and quorum/vendor/golang.org/x/sys/unix/gccgo_linux_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/gccgo_linux_sparc64.go and quorum/vendor/golang.org/x/sys/unix/gccgo_linux_sparc64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/mkall.sh and quorum/vendor/golang.org/x/sys/unix/mkall.sh are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/mkerrors.sh and quorum/vendor/golang.org/x/sys/unix/mkerrors.sh differ
 Files go-ethereum/vendor/golang.org/x/sys/unix/mkpost.go and quorum/vendor/golang.org/x/sys/unix/mkpost.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/mksyscall.pl and quorum/vendor/golang.org/x/sys/unix/mksyscall.pl are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/mksyscall_solaris.pl and quorum/vendor/golang.org/x/sys/unix/mksyscall_solaris.pl are identical
@@ -527,7 +444,6 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/mksysctl_openbsd.pl and quorum/ve
 Files go-ethereum/vendor/golang.org/x/sys/unix/mksysnum_darwin.pl and quorum/vendor/golang.org/x/sys/unix/mksysnum_darwin.pl are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/mksysnum_dragonfly.pl and quorum/vendor/golang.org/x/sys/unix/mksysnum_dragonfly.pl are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/mksysnum_freebsd.pl and quorum/vendor/golang.org/x/sys/unix/mksysnum_freebsd.pl are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/mksysnum_linux.pl and quorum/vendor/golang.org/x/sys/unix/mksysnum_linux.pl differ
 Files go-ethereum/vendor/golang.org/x/sys/unix/mksysnum_netbsd.pl and quorum/vendor/golang.org/x/sys/unix/mksysnum_netbsd.pl are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/mksysnum_openbsd.pl and quorum/vendor/golang.org/x/sys/unix/mksysnum_openbsd.pl are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/race.go and quorum/vendor/golang.org/x/sys/unix/race.go are identical
@@ -536,7 +452,6 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/sockcmsg_linux.go and quorum/vend
 Files go-ethereum/vendor/golang.org/x/sys/unix/sockcmsg_unix.go and quorum/vendor/golang.org/x/sys/unix/sockcmsg_unix.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/str.go and quorum/vendor/golang.org/x/sys/unix/str.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall.go and quorum/vendor/golang.org/x/sys/unix/syscall.go are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_bsd.go and quorum/vendor/golang.org/x/sys/unix/syscall_bsd.go differ
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_darwin.go and quorum/vendor/golang.org/x/sys/unix/syscall_darwin.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_darwin_386.go and quorum/vendor/golang.org/x/sys/unix/syscall_darwin_386.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go and quorum/vendor/golang.org/x/sys/unix/syscall_darwin_amd64.go are identical
@@ -548,14 +463,10 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_freebsd.go and quorum/ven
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_freebsd_386.go and quorum/vendor/golang.org/x/sys/unix/syscall_freebsd_386.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_freebsd_amd64.go and quorum/vendor/golang.org/x/sys/unix/syscall_freebsd_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_freebsd_arm.go and quorum/vendor/golang.org/x/sys/unix/syscall_freebsd_arm.go are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_linux.go and quorum/vendor/golang.org/x/sys/unix/syscall_linux.go differ
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_linux_386.go and quorum/vendor/golang.org/x/sys/unix/syscall_linux_386.go are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_linux_amd64.go and quorum/vendor/golang.org/x/sys/unix/syscall_linux_amd64.go differ
-Only in go-ethereum/vendor/golang.org/x/sys/unix: syscall_linux_amd64_gc.go
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_linux_arm.go and quorum/vendor/golang.org/x/sys/unix/syscall_linux_arm.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_linux_arm64.go and quorum/vendor/golang.org/x/sys/unix/syscall_linux_arm64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_linux_mips64x.go and quorum/vendor/golang.org/x/sys/unix/syscall_linux_mips64x.go are identical
-Only in go-ethereum/vendor/golang.org/x/sys/unix: syscall_linux_mipsx.go
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_linux_ppc64x.go and quorum/vendor/golang.org/x/sys/unix/syscall_linux_ppc64x.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_linux_s390x.go and quorum/vendor/golang.org/x/sys/unix/syscall_linux_s390x.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_linux_sparc64.go and quorum/vendor/golang.org/x/sys/unix/syscall_linux_sparc64.go are identical
@@ -569,12 +480,9 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_openbsd_386.go and quorum
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_openbsd_amd64.go and quorum/vendor/golang.org/x/sys/unix/syscall_openbsd_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_solaris.go and quorum/vendor/golang.org/x/sys/unix/syscall_solaris.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_solaris_amd64.go and quorum/vendor/golang.org/x/sys/unix/syscall_solaris_amd64.go are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/syscall_unix.go and quorum/vendor/golang.org/x/sys/unix/syscall_unix.go differ
-Only in go-ethereum/vendor/golang.org/x/sys/unix: syscall_unix_gc.go
 Files go-ethereum/vendor/golang.org/x/sys/unix/types_darwin.go and quorum/vendor/golang.org/x/sys/unix/types_darwin.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/types_dragonfly.go and quorum/vendor/golang.org/x/sys/unix/types_dragonfly.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/types_freebsd.go and quorum/vendor/golang.org/x/sys/unix/types_freebsd.go are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/types_linux.go and quorum/vendor/golang.org/x/sys/unix/types_linux.go differ
 Files go-ethereum/vendor/golang.org/x/sys/unix/types_netbsd.go and quorum/vendor/golang.org/x/sys/unix/types_netbsd.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/types_openbsd.go and quorum/vendor/golang.org/x/sys/unix/types_openbsd.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/types_solaris.go and quorum/vendor/golang.org/x/sys/unix/types_solaris.go are identical
@@ -586,18 +494,8 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_dragonfly_amd64.go and qu
 Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_freebsd_386.go and quorum/vendor/golang.org/x/sys/unix/zerrors_freebsd_386.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_freebsd_amd64.go and quorum/vendor/golang.org/x/sys/unix/zerrors_freebsd_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_freebsd_arm.go and quorum/vendor/golang.org/x/sys/unix/zerrors_freebsd_arm.go are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_386.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_386.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_amd64.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_amd64.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_arm.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_arm.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_arm64.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_arm64.go differ
-Only in go-ethereum/vendor/golang.org/x/sys/unix: zerrors_linux_mips.go
 Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_mips64.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_mips64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_mips64le.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_mips64le.go are identical
-Only in go-ethereum/vendor/golang.org/x/sys/unix: zerrors_linux_mipsle.go
-Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_ppc64.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_ppc64.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_ppc64le.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_ppc64le.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_s390x.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_s390x.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_linux_sparc64.go and quorum/vendor/golang.org/x/sys/unix/zerrors_linux_sparc64.go differ
 Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_netbsd_386.go and quorum/vendor/golang.org/x/sys/unix/zerrors_netbsd_386.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_netbsd_amd64.go and quorum/vendor/golang.org/x/sys/unix/zerrors_netbsd_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zerrors_netbsd_arm.go and quorum/vendor/golang.org/x/sys/unix/zerrors_netbsd_arm.go are identical
@@ -612,18 +510,6 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_dragonfly_amd64.go and q
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_freebsd_386.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_freebsd_386.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_freebsd_amd64.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_freebsd_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_freebsd_arm.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_freebsd_arm.go are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_386.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_386.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_amd64.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_amd64.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_arm.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_arm.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_arm64.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_arm64.go differ
-Only in go-ethereum/vendor/golang.org/x/sys/unix: zsyscall_linux_mips.go
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_mips64.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_mips64.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_mips64le.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_mips64le.go differ
-Only in go-ethereum/vendor/golang.org/x/sys/unix: zsyscall_linux_mipsle.go
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64le.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64le.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_s390x.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_s390x.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_linux_sparc64.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_linux_sparc64.go differ
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_netbsd_386.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_netbsd_386.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_netbsd_amd64.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_netbsd_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsyscall_netbsd_arm.go and quorum/vendor/golang.org/x/sys/unix/zsyscall_netbsd_arm.go are identical
@@ -643,10 +529,8 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/zsysnum_linux_386.go and quorum/v
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsysnum_linux_amd64.go and quorum/vendor/golang.org/x/sys/unix/zsysnum_linux_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsysnum_linux_arm.go and quorum/vendor/golang.org/x/sys/unix/zsysnum_linux_arm.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsysnum_linux_arm64.go and quorum/vendor/golang.org/x/sys/unix/zsysnum_linux_arm64.go are identical
-Only in go-ethereum/vendor/golang.org/x/sys/unix: zsysnum_linux_mips.go
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsysnum_linux_mips64.go and quorum/vendor/golang.org/x/sys/unix/zsysnum_linux_mips64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsysnum_linux_mips64le.go and quorum/vendor/golang.org/x/sys/unix/zsysnum_linux_mips64le.go are identical
-Only in go-ethereum/vendor/golang.org/x/sys/unix: zsysnum_linux_mipsle.go
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc64.go and quorum/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc64le.go and quorum/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc64le.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/zsysnum_linux_s390x.go and quorum/vendor/golang.org/x/sys/unix/zsysnum_linux_s390x.go are identical
@@ -665,18 +549,6 @@ Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_dragonfly_amd64.go and quo
 Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_freebsd_386.go and quorum/vendor/golang.org/x/sys/unix/ztypes_freebsd_386.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_freebsd_amd64.go and quorum/vendor/golang.org/x/sys/unix/ztypes_freebsd_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_freebsd_arm.go and quorum/vendor/golang.org/x/sys/unix/ztypes_freebsd_arm.go are identical
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_386.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_386.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_amd64.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_amd64.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_arm.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_arm.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_arm64.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_arm64.go differ
-Only in go-ethereum/vendor/golang.org/x/sys/unix: ztypes_linux_mips.go
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_mips64.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_mips64.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_mips64le.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_mips64le.go differ
-Only in go-ethereum/vendor/golang.org/x/sys/unix: ztypes_linux_mipsle.go
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_ppc64.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_ppc64.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_ppc64le.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_ppc64le.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_s390x.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_s390x.go differ
-Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_linux_sparc64.go and quorum/vendor/golang.org/x/sys/unix/ztypes_linux_sparc64.go differ
 Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_netbsd_386.go and quorum/vendor/golang.org/x/sys/unix/ztypes_netbsd_386.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_netbsd_amd64.go and quorum/vendor/golang.org/x/sys/unix/ztypes_netbsd_amd64.go are identical
 Files go-ethereum/vendor/golang.org/x/sys/unix/ztypes_netbsd_arm.go and quorum/vendor/golang.org/x/sys/unix/ztypes_netbsd_arm.go are identical
@@ -723,7 +595,6 @@ Files go-ethereum/vendor/golang.org/x/text/encoding/traditionalchinese/maketable
 Files go-ethereum/vendor/golang.org/x/text/encoding/traditionalchinese/tables.go and quorum/vendor/golang.org/x/text/encoding/traditionalchinese/tables.go are identical
 Files go-ethereum/vendor/golang.org/x/text/encoding/unicode/override.go and quorum/vendor/golang.org/x/text/encoding/unicode/override.go are identical
 Files go-ethereum/vendor/golang.org/x/text/encoding/unicode/unicode.go and quorum/vendor/golang.org/x/text/encoding/unicode/unicode.go are identical
-Files go-ethereum/vendor/golang.org/x/text/internal/gen/code.go and quorum/vendor/golang.org/x/text/internal/gen/code.go differ
 Files go-ethereum/vendor/golang.org/x/text/internal/gen/gen.go and quorum/vendor/golang.org/x/text/internal/gen/gen.go are identical
 Files go-ethereum/vendor/golang.org/x/text/internal/tag/tag.go and quorum/vendor/golang.org/x/text/internal/tag/tag.go are identical
 Files go-ethereum/vendor/golang.org/x/text/internal/utf8internal/utf8internal.go and quorum/vendor/golang.org/x/text/internal/utf8internal/utf8internal.go are identical
@@ -740,7 +611,6 @@ Files go-ethereum/vendor/golang.org/x/text/language/lookup.go and quorum/vendor/
 Files go-ethereum/vendor/golang.org/x/text/language/maketables.go and quorum/vendor/golang.org/x/text/language/maketables.go are identical
 Files go-ethereum/vendor/golang.org/x/text/language/match.go and quorum/vendor/golang.org/x/text/language/match.go are identical
 Files go-ethereum/vendor/golang.org/x/text/language/parse.go and quorum/vendor/golang.org/x/text/language/parse.go are identical
-Files go-ethereum/vendor/golang.org/x/text/language/tables.go and quorum/vendor/golang.org/x/text/language/tables.go differ
 Files go-ethereum/vendor/golang.org/x/text/language/tags.go and quorum/vendor/golang.org/x/text/language/tags.go are identical
 Files go-ethereum/vendor/golang.org/x/text/runes/cond.go and quorum/vendor/golang.org/x/text/runes/cond.go are identical
 Files go-ethereum/vendor/golang.org/x/text/runes/runes.go and quorum/vendor/golang.org/x/text/runes/runes.go are identical
@@ -770,20 +640,16 @@ Files go-ethereum/vendor/golang.org/x/tools/imports/fastwalk_dirent_fileno.go an
 Files go-ethereum/vendor/golang.org/x/tools/imports/fastwalk_dirent_ino.go and quorum/vendor/golang.org/x/tools/imports/fastwalk_dirent_ino.go are identical
 Files go-ethereum/vendor/golang.org/x/tools/imports/fastwalk_portable.go and quorum/vendor/golang.org/x/tools/imports/fastwalk_portable.go are identical
 Files go-ethereum/vendor/golang.org/x/tools/imports/fastwalk_unix.go and quorum/vendor/golang.org/x/tools/imports/fastwalk_unix.go are identical
-Files go-ethereum/vendor/golang.org/x/tools/imports/fix.go and quorum/vendor/golang.org/x/tools/imports/fix.go differ
 Files go-ethereum/vendor/golang.org/x/tools/imports/imports.go and quorum/vendor/golang.org/x/tools/imports/imports.go are identical
 Files go-ethereum/vendor/golang.org/x/tools/imports/mkindex.go and quorum/vendor/golang.org/x/tools/imports/mkindex.go are identical
 Files go-ethereum/vendor/golang.org/x/tools/imports/mkstdlib.go and quorum/vendor/golang.org/x/tools/imports/mkstdlib.go are identical
 Files go-ethereum/vendor/golang.org/x/tools/imports/sortimports.go and quorum/vendor/golang.org/x/tools/imports/sortimports.go are identical
 Files go-ethereum/vendor/golang.org/x/tools/imports/zstdlib.go and quorum/vendor/golang.org/x/tools/imports/zstdlib.go are identical
 Files go-ethereum/vendor/gopkg.in/check.v1/.gitignore and quorum/vendor/gopkg.in/check.v1/.gitignore are identical
-Only in go-ethereum/vendor/gopkg.in/check.v1: .travis.yml
 Files go-ethereum/vendor/gopkg.in/check.v1/LICENSE and quorum/vendor/gopkg.in/check.v1/LICENSE are identical
 Files go-ethereum/vendor/gopkg.in/check.v1/README.md and quorum/vendor/gopkg.in/check.v1/README.md are identical
 Files go-ethereum/vendor/gopkg.in/check.v1/TODO and quorum/vendor/gopkg.in/check.v1/TODO are identical
 Files go-ethereum/vendor/gopkg.in/check.v1/benchmark.go and quorum/vendor/gopkg.in/check.v1/benchmark.go are identical
-Files go-ethereum/vendor/gopkg.in/check.v1/check.go and quorum/vendor/gopkg.in/check.v1/check.go differ
-Files go-ethereum/vendor/gopkg.in/check.v1/checkers.go and quorum/vendor/gopkg.in/check.v1/checkers.go differ
 Files go-ethereum/vendor/gopkg.in/check.v1/helpers.go and quorum/vendor/gopkg.in/check.v1/helpers.go are identical
 Files go-ethereum/vendor/gopkg.in/check.v1/printer.go and quorum/vendor/gopkg.in/check.v1/printer.go are identical
 Files go-ethereum/vendor/gopkg.in/check.v1/reporter.go and quorum/vendor/gopkg.in/check.v1/reporter.go are identical
@@ -805,7 +671,6 @@ Files go-ethereum/vendor/gopkg.in/natefinch/npipe.v2/doc.go and quorum/vendor/go
 Files go-ethereum/vendor/gopkg.in/natefinch/npipe.v2/npipe_windows.go and quorum/vendor/gopkg.in/natefinch/npipe.v2/npipe_windows.go are identical
 Files go-ethereum/vendor/gopkg.in/natefinch/npipe.v2/znpipe_windows_386.go and quorum/vendor/gopkg.in/natefinch/npipe.v2/znpipe_windows_386.go are identical
 Files go-ethereum/vendor/gopkg.in/natefinch/npipe.v2/znpipe_windows_amd64.go and quorum/vendor/gopkg.in/natefinch/npipe.v2/znpipe_windows_amd64.go are identical
-Only in quorum/vendor/gopkg.in: oleiade
 Files go-ethereum/vendor/gopkg.in/sourcemap.v1/.travis.yml and quorum/vendor/gopkg.in/sourcemap.v1/.travis.yml are identical
 Files go-ethereum/vendor/gopkg.in/sourcemap.v1/LICENSE and quorum/vendor/gopkg.in/sourcemap.v1/LICENSE are identical
 Files go-ethereum/vendor/gopkg.in/sourcemap.v1/Makefile and quorum/vendor/gopkg.in/sourcemap.v1/Makefile are identical
@@ -813,21 +678,5 @@ Files go-ethereum/vendor/gopkg.in/sourcemap.v1/README.md and quorum/vendor/gopkg
 Files go-ethereum/vendor/gopkg.in/sourcemap.v1/base64vlq/base64_vlq.go and quorum/vendor/gopkg.in/sourcemap.v1/base64vlq/base64_vlq.go are identical
 Files go-ethereum/vendor/gopkg.in/sourcemap.v1/consumer.go and quorum/vendor/gopkg.in/sourcemap.v1/consumer.go are identical
 Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/.gitignore and quorum/vendor/gopkg.in/urfave/cli.v1/.gitignore are identical
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/.travis.yml and quorum/vendor/gopkg.in/urfave/cli.v1/.travis.yml differ
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/CHANGELOG.md and quorum/vendor/gopkg.in/urfave/cli.v1/CHANGELOG.md differ
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/LICENSE and quorum/vendor/gopkg.in/urfave/cli.v1/LICENSE are identical
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/README.md and quorum/vendor/gopkg.in/urfave/cli.v1/README.md differ
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/app.go and quorum/vendor/gopkg.in/urfave/cli.v1/app.go differ
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/appveyor.yml and quorum/vendor/gopkg.in/urfave/cli.v1/appveyor.yml differ
 Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/category.go and quorum/vendor/gopkg.in/urfave/cli.v1/category.go are identical
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/cli.go and quorum/vendor/gopkg.in/urfave/cli.v1/cli.go differ
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/command.go and quorum/vendor/gopkg.in/urfave/cli.v1/command.go differ
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/context.go and quorum/vendor/gopkg.in/urfave/cli.v1/context.go differ
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/errors.go and quorum/vendor/gopkg.in/urfave/cli.v1/errors.go differ
-Only in go-ethereum/vendor/gopkg.in/urfave/cli.v1: flag-types.json
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/flag.go and quorum/vendor/gopkg.in/urfave/cli.v1/flag.go differ
-Only in go-ethereum/vendor/gopkg.in/urfave/cli.v1: flag_generated.go
 Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/funcs.go and quorum/vendor/gopkg.in/urfave/cli.v1/funcs.go are identical
-Only in go-ethereum/vendor/gopkg.in/urfave/cli.v1: generate-flag-types
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/help.go and quorum/vendor/gopkg.in/urfave/cli.v1/help.go differ
-Files go-ethereum/vendor/gopkg.in/urfave/cli.v1/runtests and quorum/vendor/gopkg.in/urfave/cli.v1/runtests differ

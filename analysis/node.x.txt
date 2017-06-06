@@ -1,12 +1,6 @@
-Files go-ethereum/node/api.go and quorum/node/api.go differ
-Files go-ethereum/node/config.go and quorum/node/config.go differ
-Files go-ethereum/node/config_test.go and quorum/node/config_test.go differ
 Files go-ethereum/node/defaults.go and quorum/node/defaults.go are identical
 Files go-ethereum/node/doc.go and quorum/node/doc.go are identical
 Files go-ethereum/node/errors.go and quorum/node/errors.go are identical
-Files go-ethereum/node/node.go and quorum/node/node.go differ
-Files go-ethereum/node/node_example_test.go and quorum/node/node_example_test.go differ
-Files go-ethereum/node/node_test.go and quorum/node/node_test.go differ
 Files go-ethereum/node/service.go and quorum/node/service.go are identical
 Files go-ethereum/node/service_test.go and quorum/node/service_test.go are identical
 Files go-ethereum/node/utils_test.go and quorum/node/utils_test.go are identical

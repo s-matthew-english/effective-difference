@@ -1,0 +1,7 @@
+Files go-ethereum/accounts/abi/bind/util.go and quorum/accounts/abi/bind/util.go are identical
+Files go-ethereum/accounts/abi/doc.go and quorum/accounts/abi/doc.go are identical
+Files go-ethereum/accounts/abi/error.go and quorum/accounts/abi/error.go are identical
+Files go-ethereum/accounts/abi/event_test.go and quorum/accounts/abi/event_test.go are identical
+Files go-ethereum/accounts/abi/method.go and quorum/accounts/abi/method.go are identical
+Files go-ethereum/accounts/abi/numbers.go and quorum/accounts/abi/numbers.go are identical
+Files go-ethereum/accounts/abi/numbers_test.go and quorum/accounts/abi/numbers_test.go are identical

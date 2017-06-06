@@ -1,0 +1,3 @@
+Files go-ethereum/event/example_test.go and quorum/event/example_test.go are identical
+Files go-ethereum/event/filter/filter.go and quorum/event/filter/filter.go are identical
+Files go-ethereum/event/filter/filter_test.go and quorum/event/filter/filter_test.go are identical

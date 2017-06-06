@@ -1,0 +1,14 @@
+Files go-ethereum/p2p/discover/node_test.go and quorum/p2p/discover/node_test.go are identical
+Files go-ethereum/p2p/discover/ntp.go and quorum/p2p/discover/ntp.go are identical
+Files go-ethereum/p2p/message.go and quorum/p2p/message.go are identical
+Files go-ethereum/p2p/message_test.go and quorum/p2p/message_test.go are identical
+Files go-ethereum/p2p/metrics.go and quorum/p2p/metrics.go are identical
+Files go-ethereum/p2p/nat/nat.go and quorum/p2p/nat/nat.go are identical
+Files go-ethereum/p2p/nat/nat_test.go and quorum/p2p/nat/nat_test.go differ
+Files go-ethereum/p2p/nat/natupnp.go and quorum/p2p/nat/natupnp.go are identical
+Files go-ethereum/p2p/nat/natupnp_test.go and quorum/p2p/nat/natupnp_test.go are identical
+Files go-ethereum/p2p/peer.go and quorum/p2p/peer.go are identical
+Files go-ethereum/p2p/peer_error.go and quorum/p2p/peer_error.go are identical
+Files go-ethereum/p2p/protocol.go and quorum/p2p/protocol.go are identical
+Files go-ethereum/p2p/rlpx_test.go and quorum/p2p/rlpx_test.go are identical
+Files go-ethereum/p2p/server_test.go and quorum/p2p/server_test.go are identical

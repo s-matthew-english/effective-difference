@@ -1,0 +1,12 @@
+Files go-ethereum/cmd/geth/genesis_test.go and quorum/cmd/geth/genesis_test.go are identical
+Files go-ethereum/cmd/geth/run_test.go and quorum/cmd/geth/run_test.go are identical
+Files go-ethereum/cmd/geth/testdata/empty.js and quorum/cmd/geth/testdata/empty.js are identical
+Files go-ethereum/cmd/geth/testdata/guswallet.json and quorum/cmd/geth/testdata/guswallet.json are identical
+Files go-ethereum/cmd/geth/testdata/passwords.txt and quorum/cmd/geth/testdata/passwords.txt are identical
+Files go-ethereum/cmd/geth/testdata/wrong-passwords.txt and quorum/cmd/geth/testdata/wrong-passwords.txt are identical
+Files go-ethereum/cmd/rlpdump/main.go and quorum/cmd/rlpdump/main.go are identical
+Files go-ethereum/cmd/utils/customflags_test.go and quorum/cmd/utils/customflags_test.go are identical
+Files go-ethereum/cmd/utils/fdlimit_freebsd.go and quorum/cmd/utils/fdlimit_freebsd.go are identical
+Files go-ethereum/cmd/utils/fdlimit_test.go and quorum/cmd/utils/fdlimit_test.go are identical
+Files go-ethereum/cmd/utils/fdlimit_unix.go and quorum/cmd/utils/fdlimit_unix.go are identical
+Files go-ethereum/cmd/utils/fdlimit_windows.go and quorum/cmd/utils/fdlimit_windows.go are identical

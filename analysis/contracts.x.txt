@@ -1,6 +1,4 @@
 Files go-ethereum/contracts/chequebook/api.go and quorum/contracts/chequebook/api.go are identical
-Files go-ethereum/contracts/chequebook/cheque.go and quorum/contracts/chequebook/cheque.go differ
-Files go-ethereum/contracts/chequebook/cheque_test.go and quorum/contracts/chequebook/cheque_test.go differ
 Files go-ethereum/contracts/chequebook/contract/chequebook.go and quorum/contracts/chequebook/contract/chequebook.go are identical
 Files go-ethereum/contracts/chequebook/contract/chequebook.sol and quorum/contracts/chequebook/contract/chequebook.sol are identical
 Files go-ethereum/contracts/chequebook/contract/code.go and quorum/contracts/chequebook/contract/code.go are identical
@@ -9,8 +7,5 @@ Files go-ethereum/contracts/ens/README.md and quorum/contracts/ens/README.md are
 Files go-ethereum/contracts/ens/contract/ens.go and quorum/contracts/ens/contract/ens.go are identical
 Files go-ethereum/contracts/ens/contract/ens.sol and quorum/contracts/ens/contract/ens.sol are identical
 Files go-ethereum/contracts/ens/ens.go and quorum/contracts/ens/ens.go are identical
-Files go-ethereum/contracts/ens/ens_test.go and quorum/contracts/ens/ens_test.go differ
 Files go-ethereum/contracts/release/contract.go and quorum/contracts/release/contract.go are identical
-Files go-ethereum/contracts/release/contract.sol and quorum/contracts/release/contract.sol differ
 Files go-ethereum/contracts/release/contract_test.go and quorum/contracts/release/contract_test.go are identical
-Files go-ethereum/contracts/release/release.go and quorum/contracts/release/release.go differ

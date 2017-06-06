@@ -1,0 +1,2 @@
+Files go-ethereum/console/testdata/exec.js and quorum/console/testdata/exec.js are identical
+Files go-ethereum/console/testdata/preload.js and quorum/console/testdata/preload.js are identical

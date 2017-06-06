@@ -2,23 +2,9 @@ Files go-ethereum/build/_vendor/src/golang.org/x/net/LICENSE and quorum/build/_v
 Files go-ethereum/build/_vendor/src/golang.org/x/net/context/context.go and quorum/build/_vendor/src/golang.org/x/net/context/context.go are identical
 Files go-ethereum/build/_vendor/src/golang.org/x/net/context/go17.go and quorum/build/_vendor/src/golang.org/x/net/context/go17.go are identical
 Files go-ethereum/build/_vendor/src/golang.org/x/net/context/pre_go17.go and quorum/build/_vendor/src/golang.org/x/net/context/pre_go17.go are identical
-Files go-ethereum/build/ci-notes.md and quorum/build/ci-notes.md differ
-Files go-ethereum/build/ci.go and quorum/build/ci.go differ
 Files go-ethereum/build/deb.changelog and quorum/build/deb.changelog are identical
 Files go-ethereum/build/deb.control and quorum/build/deb.control are identical
 Files go-ethereum/build/deb.copyright and quorum/build/deb.copyright are identical
 Files go-ethereum/build/deb.docs and quorum/build/deb.docs are identical
 Files go-ethereum/build/deb.install and quorum/build/deb.install are identical
 Files go-ethereum/build/deb.rules and quorum/build/deb.rules are identical
-Files go-ethereum/build/env.sh and quorum/build/env.sh differ
-Only in go-ethereum/build: mvn.pom
-Only in go-ethereum/build: mvn.settings
-Only in go-ethereum/build: nsis.envvarupdate.nsh
-Only in go-ethereum/build: nsis.geth.nsi
-Only in go-ethereum/build: nsis.install.nsh
-Only in go-ethereum/build: nsis.pathupdate.nsh
-Only in go-ethereum/build: nsis.simplefc.dll
-Only in go-ethereum/build: nsis.simplefc.source.zip
-Only in go-ethereum/build: nsis.uninstall.nsh
-Only in go-ethereum/build: pod.podspec
-Files go-ethereum/build/update-license.go and quorum/build/update-license.go differ

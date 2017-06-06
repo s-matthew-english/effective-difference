@@ -1,0 +1,23 @@
+Files go-ethereum/core/.gitignore and quorum/core/.gitignore are identical
+Files go-ethereum/core/asm.go and quorum/core/asm.go are identical
+Files go-ethereum/core/chain_pow.go and quorum/core/chain_pow.go are identical
+Files go-ethereum/core/error.go and quorum/core/error.go are identical
+Files go-ethereum/core/fees.go and quorum/core/fees.go are identical
+Files go-ethereum/core/filter_test.go and quorum/core/filter_test.go are identical
+Files go-ethereum/core/gaspool.go and quorum/core/gaspool.go are identical
+Files go-ethereum/core/helper_test.go and quorum/core/helper_test.go are identical
+Files go-ethereum/core/state/dump.go and quorum/core/state/dump.go are identical
+Files go-ethereum/core/state/main_test.go and quorum/core/state/main_test.go are identical
+Files go-ethereum/core/state/managed_state.go and quorum/core/state/managed_state.go are identical
+Files go-ethereum/core/types/bloom9_test.go and quorum/core/types/bloom9_test.go are identical
+Files go-ethereum/core/types/derive_sha.go and quorum/core/types/derive_sha.go are identical
+Files go-ethereum/core/vm/analysis.go and quorum/core/vm/analysis.go are identical
+Files go-ethereum/core/vm/asm.go and quorum/core/vm/asm.go are identical
+Files go-ethereum/core/vm/common.go and quorum/core/vm/common.go are identical
+Files go-ethereum/core/vm/disasm.go and quorum/core/vm/disasm.go are identical
+Files go-ethereum/core/vm/doc.go and quorum/core/vm/doc.go are identical
+Files go-ethereum/core/vm/memory.go and quorum/core/vm/memory.go are identical
+Files go-ethereum/core/vm/runtime/doc.go and quorum/core/vm/runtime/doc.go are identical
+Files go-ethereum/core/vm/runtime/runtime_example_test.go and quorum/core/vm/runtime/runtime_example_test.go are identical
+Files go-ethereum/core/vm/virtual_machine.go and quorum/core/vm/virtual_machine.go are identical
+

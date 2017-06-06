@@ -1,5 +1,3 @@
-Files go-ethereum/tests/block_test.go and quorum/tests/block_test.go differ
-Files go-ethereum/tests/block_test_util.go and quorum/tests/block_test_util.go differ
 Files go-ethereum/tests/files/.gitignore and quorum/tests/files/.gitignore are identical
 Files go-ethereum/tests/files/ABITests/basic_abi_tests.json and quorum/tests/files/ABITests/basic_abi_tests.json are identical
 Files go-ethereum/tests/files/BasicTests/blockgenesistest.json and quorum/tests/files/BasicTests/blockgenesistest.json are identical
@@ -14,37 +12,27 @@ Files go-ethereum/tests/files/BasicTests/genesishashestest.json and quorum/tests
 Files go-ethereum/tests/files/BasicTests/hexencodetest.json and quorum/tests/files/BasicTests/hexencodetest.json are identical
 Files go-ethereum/tests/files/BasicTests/keyaddrtest.json and quorum/tests/files/BasicTests/keyaddrtest.json are identical
 Files go-ethereum/tests/files/BasicTests/txtest.json and quorum/tests/files/BasicTests/txtest.json are identical
-Only in go-ethereum/tests/files/BlockchainTests: EIP150
-Only in go-ethereum/tests/files/BlockchainTests/Homestead: README.md
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcBlockGasLimitTest.json and quorum/tests/files/BlockchainTests/Homestead/bcBlockGasLimitTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcExploitTest.json and quorum/tests/files/BlockchainTests/Homestead/bcExploitTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcForkStressTest.json and quorum/tests/files/BlockchainTests/Homestead/bcForkStressTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcGasPricerTest.json and quorum/tests/files/BlockchainTests/Homestead/bcGasPricerTest.json are identical
-Files go-ethereum/tests/files/BlockchainTests/Homestead/bcInvalidHeaderTest.json and quorum/tests/files/BlockchainTests/Homestead/bcInvalidHeaderTest.json differ
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcInvalidRLPTest.json and quorum/tests/files/BlockchainTests/Homestead/bcInvalidRLPTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcMultiChainTest.json and quorum/tests/files/BlockchainTests/Homestead/bcMultiChainTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcRPC_API_Test.json and quorum/tests/files/BlockchainTests/Homestead/bcRPC_API_Test.json are identical
-Files go-ethereum/tests/files/BlockchainTests/Homestead/bcShanghaiLove.json and quorum/tests/files/BlockchainTests/Homestead/bcShanghaiLove.json differ
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcStateTest.json and quorum/tests/files/BlockchainTests/Homestead/bcStateTest.json are identical
-Files go-ethereum/tests/files/BlockchainTests/Homestead/bcSuicideIssue.json and quorum/tests/files/BlockchainTests/Homestead/bcSuicideIssue.json differ
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcTotalDifficultyTest.json and quorum/tests/files/BlockchainTests/Homestead/bcTotalDifficultyTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcUncleHeaderValiditiy.json and quorum/tests/files/BlockchainTests/Homestead/bcUncleHeaderValiditiy.json are identical
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcUncleTest.json and quorum/tests/files/BlockchainTests/Homestead/bcUncleTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcValidBlockTest.json and quorum/tests/files/BlockchainTests/Homestead/bcValidBlockTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/Homestead/bcWalletTest.json and quorum/tests/files/BlockchainTests/Homestead/bcWalletTest.json are identical
-Only in go-ethereum/tests/files/BlockchainTests: README.md
 Files go-ethereum/tests/files/BlockchainTests/RandomTests/bl10251623GO.json and quorum/tests/files/BlockchainTests/RandomTests/bl10251623GO.json are identical
 Files go-ethereum/tests/files/BlockchainTests/RandomTests/bl201507071825GO.json and quorum/tests/files/BlockchainTests/RandomTests/bl201507071825GO.json are identical
-Only in go-ethereum/tests/files/BlockchainTests/TestNetwork: README.md
-Files go-ethereum/tests/files/BlockchainTests/TestNetwork/bcEIP150Test.json and quorum/tests/files/BlockchainTests/TestNetwork/bcEIP150Test.json differ
 Files go-ethereum/tests/files/BlockchainTests/TestNetwork/bcSimpleTransitionTest.json and quorum/tests/files/BlockchainTests/TestNetwork/bcSimpleTransitionTest.json are identical
-Files go-ethereum/tests/files/BlockchainTests/TestNetwork/bcTheDaoTest.json and quorum/tests/files/BlockchainTests/TestNetwork/bcTheDaoTest.json differ
 Files go-ethereum/tests/files/BlockchainTests/bcBlockGasLimitTest.json and quorum/tests/files/BlockchainTests/bcBlockGasLimitTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/bcForkBlockTest.json and quorum/tests/files/BlockchainTests/bcForkBlockTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/bcForkStressTest.json and quorum/tests/files/BlockchainTests/bcForkStressTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/bcForkUncle.json and quorum/tests/files/BlockchainTests/bcForkUncle.json are identical
 Files go-ethereum/tests/files/BlockchainTests/bcGasPricerTest.json and quorum/tests/files/BlockchainTests/bcGasPricerTest.json are identical
-Files go-ethereum/tests/files/BlockchainTests/bcInvalidHeaderTest.json and quorum/tests/files/BlockchainTests/bcInvalidHeaderTest.json differ
 Files go-ethereum/tests/files/BlockchainTests/bcInvalidRLPTest.json and quorum/tests/files/BlockchainTests/bcInvalidRLPTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/bcMultiChainTest.json and quorum/tests/files/BlockchainTests/bcMultiChainTest.json are identical
 Files go-ethereum/tests/files/BlockchainTests/bcRPC_API_Test.json and quorum/tests/files/BlockchainTests/bcRPC_API_Test.json are identical
@@ -61,51 +49,21 @@ Files go-ethereum/tests/files/README.md and quorum/tests/files/README.md are ide
 Files go-ethereum/tests/files/RLPTests/RandomRLPTests/example.json and quorum/tests/files/RLPTests/RandomRLPTests/example.json are identical
 Files go-ethereum/tests/files/RLPTests/invalidRLPTest.json and quorum/tests/files/RLPTests/invalidRLPTest.json are identical
 Files go-ethereum/tests/files/RLPTests/rlptest.json and quorum/tests/files/RLPTests/rlptest.json are identical
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stBoundsTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stBoundsTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stCallCodes.json and quorum/tests/files/StateTests/EIP150/Homestead/stCallCodes.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stCallCreateCallCodeTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stCallCreateCallCodeTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stCallDelegateCodes.json and quorum/tests/files/StateTests/EIP150/Homestead/stCallDelegateCodes.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stCallDelegateCodesCallCode.json and quorum/tests/files/StateTests/EIP150/Homestead/stCallDelegateCodesCallCode.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stDelegatecallTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stDelegatecallTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stHomeSteadSpecific.json and quorum/tests/files/StateTests/EIP150/Homestead/stHomeSteadSpecific.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stInitCodeTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stInitCodeTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stLogTests.json and quorum/tests/files/StateTests/EIP150/Homestead/stLogTests.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stMemoryTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stMemoryTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stPreCompiledContracts.json and quorum/tests/files/StateTests/EIP150/Homestead/stPreCompiledContracts.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stQuadraticComplexityTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stQuadraticComplexityTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stRecursiveCreate.json and quorum/tests/files/StateTests/EIP150/Homestead/stRecursiveCreate.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stRefundTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stRefundTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stSpecialTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stSpecialTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stSystemOperationsTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stSystemOperationsTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stTransactionTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stTransactionTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/Homestead/stWalletTest.json and quorum/tests/files/StateTests/EIP150/Homestead/stWalletTest.json differ
-Only in go-ethereum/tests/files/StateTests/EIP150: README.md
-Only in go-ethereum/tests/files/StateTests/EIP150: stChangedTests.json
-Files go-ethereum/tests/files/StateTests/EIP150/stEIPSingleCodeGasPrices.json and quorum/tests/files/StateTests/EIP150/stEIPSingleCodeGasPrices.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/stEIPSpecificTest.json and quorum/tests/files/StateTests/EIP150/stEIPSpecificTest.json differ
-Files go-ethereum/tests/files/StateTests/EIP150/stMemExpandingEIPCalls.json and quorum/tests/files/StateTests/EIP150/stMemExpandingEIPCalls.json differ
-Only in go-ethereum/tests/files/StateTests: EIP158
-Only in go-ethereum/tests/files/StateTests/Homestead: README.md
 Files go-ethereum/tests/files/StateTests/Homestead/stBoundsTest.json and quorum/tests/files/StateTests/Homestead/stBoundsTest.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stCallCodes.json and quorum/tests/files/StateTests/Homestead/stCallCodes.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stCallCreateCallCodeTest.json and quorum/tests/files/StateTests/Homestead/stCallCreateCallCodeTest.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stCallDelegateCodes.json and quorum/tests/files/StateTests/Homestead/stCallDelegateCodes.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stCallDelegateCodesCallCode.json and quorum/tests/files/StateTests/Homestead/stCallDelegateCodesCallCode.json are identical
-Files go-ethereum/tests/files/StateTests/Homestead/stDelegatecallTest.json and quorum/tests/files/StateTests/Homestead/stDelegatecallTest.json differ
 Files go-ethereum/tests/files/StateTests/Homestead/stHomeSteadSpecific.json and quorum/tests/files/StateTests/Homestead/stHomeSteadSpecific.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stInitCodeTest.json and quorum/tests/files/StateTests/Homestead/stInitCodeTest.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stLogTests.json and quorum/tests/files/StateTests/Homestead/stLogTests.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stMemoryStressTest.json and quorum/tests/files/StateTests/Homestead/stMemoryStressTest.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stMemoryTest.json and quorum/tests/files/StateTests/Homestead/stMemoryTest.json are identical
-Files go-ethereum/tests/files/StateTests/Homestead/stPreCompiledContracts.json and quorum/tests/files/StateTests/Homestead/stPreCompiledContracts.json differ
 Files go-ethereum/tests/files/StateTests/Homestead/stQuadraticComplexityTest.json and quorum/tests/files/StateTests/Homestead/stQuadraticComplexityTest.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stRecursiveCreate.json and quorum/tests/files/StateTests/Homestead/stRecursiveCreate.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stRefundTest.json and quorum/tests/files/StateTests/Homestead/stRefundTest.json are identical
 Files go-ethereum/tests/files/StateTests/Homestead/stSpecialTest.json and quorum/tests/files/StateTests/Homestead/stSpecialTest.json are identical
-Files go-ethereum/tests/files/StateTests/Homestead/stSystemOperationsTest.json and quorum/tests/files/StateTests/Homestead/stSystemOperationsTest.json differ
-Files go-ethereum/tests/files/StateTests/Homestead/stTransactionTest.json and quorum/tests/files/StateTests/Homestead/stTransactionTest.json differ
 Files go-ethereum/tests/files/StateTests/Homestead/stWalletTest.json and quorum/tests/files/StateTests/Homestead/stWalletTest.json are identical
-Only in go-ethereum/tests/files/StateTests: README.md
 Files go-ethereum/tests/files/StateTests/RandomTests/st201503121803PYTHON.json and quorum/tests/files/StateTests/RandomTests/st201503121803PYTHON.json are identical
 Files go-ethereum/tests/files/StateTests/RandomTests/st201503121806PYTHON.json and quorum/tests/files/StateTests/RandomTests/st201503121806PYTHON.json are identical
 Files go-ethereum/tests/files/StateTests/RandomTests/st201503121848GO.json and quorum/tests/files/StateTests/RandomTests/st201503121848GO.json are identical
@@ -751,31 +709,24 @@ Files go-ethereum/tests/files/StateTests/RandomTests/st201507030359GO.json and q
 Files go-ethereum/tests/files/StateTests/stBlockHashTest.json and quorum/tests/files/StateTests/stBlockHashTest.json are identical
 Files go-ethereum/tests/files/StateTests/stCallCodes.json and quorum/tests/files/StateTests/stCallCodes.json are identical
 Files go-ethereum/tests/files/StateTests/stCallCreateCallCodeTest.json and quorum/tests/files/StateTests/stCallCreateCallCodeTest.json are identical
-Only in quorum/tests/files/StateTests: stDelegatecallTest.json
 Files go-ethereum/tests/files/StateTests/stExample.json and quorum/tests/files/StateTests/stExample.json are identical
 Files go-ethereum/tests/files/StateTests/stInitCodeTest.json and quorum/tests/files/StateTests/stInitCodeTest.json are identical
 Files go-ethereum/tests/files/StateTests/stLogTests.json and quorum/tests/files/StateTests/stLogTests.json are identical
 Files go-ethereum/tests/files/StateTests/stMemoryStressTest.json and quorum/tests/files/StateTests/stMemoryStressTest.json are identical
 Files go-ethereum/tests/files/StateTests/stMemoryTest.json and quorum/tests/files/StateTests/stMemoryTest.json are identical
-Files go-ethereum/tests/files/StateTests/stPreCompiledContracts.json and quorum/tests/files/StateTests/stPreCompiledContracts.json differ
 Files go-ethereum/tests/files/StateTests/stQuadraticComplexityTest.json and quorum/tests/files/StateTests/stQuadraticComplexityTest.json are identical
 Files go-ethereum/tests/files/StateTests/stRecursiveCreate.json and quorum/tests/files/StateTests/stRecursiveCreate.json are identical
 Files go-ethereum/tests/files/StateTests/stRefundTest.json and quorum/tests/files/StateTests/stRefundTest.json are identical
 Files go-ethereum/tests/files/StateTests/stSolidityTest.json and quorum/tests/files/StateTests/stSolidityTest.json are identical
 Files go-ethereum/tests/files/StateTests/stSpecialTest.json and quorum/tests/files/StateTests/stSpecialTest.json are identical
-Files go-ethereum/tests/files/StateTests/stSystemOperationsTest.json and quorum/tests/files/StateTests/stSystemOperationsTest.json differ
 Files go-ethereum/tests/files/StateTests/stTransactionTest.json and quorum/tests/files/StateTests/stTransactionTest.json are identical
 Files go-ethereum/tests/files/StateTests/stTransitionTest.json and quorum/tests/files/StateTests/stTransitionTest.json are identical
 Files go-ethereum/tests/files/StateTests/stWalletTest.json and quorum/tests/files/StateTests/stWalletTest.json are identical
 Files go-ethereum/tests/files/TODO and quorum/tests/files/TODO are identical
-Only in go-ethereum/tests/files/TransactionTests: EIP155
 Files go-ethereum/tests/files/TransactionTests/Homestead/tt10mbDataField.json and quorum/tests/files/TransactionTests/Homestead/tt10mbDataField.json are identical
-Files go-ethereum/tests/files/TransactionTests/Homestead/ttTransactionTest.json and quorum/tests/files/TransactionTests/Homestead/ttTransactionTest.json differ
-Only in go-ethereum/tests/files/TransactionTests/Homestead: ttTransactionTestEip155VitaliksTests.json
 Files go-ethereum/tests/files/TransactionTests/Homestead/ttWrongRLPTransaction.json and quorum/tests/files/TransactionTests/Homestead/ttWrongRLPTransaction.json are identical
 Files go-ethereum/tests/files/TransactionTests/RandomTests/tr201506052141PYTHON.json and quorum/tests/files/TransactionTests/RandomTests/tr201506052141PYTHON.json are identical
 Files go-ethereum/tests/files/TransactionTests/tt10mbDataField.json and quorum/tests/files/TransactionTests/tt10mbDataField.json are identical
-Files go-ethereum/tests/files/TransactionTests/ttTransactionTest.json and quorum/tests/files/TransactionTests/ttTransactionTest.json differ
 Files go-ethereum/tests/files/TransactionTests/ttWrongRLPTransaction.json and quorum/tests/files/TransactionTests/ttWrongRLPTransaction.json are identical
 Files go-ethereum/tests/files/TrieTests/hex_encoded_securetrie_test.json and quorum/tests/files/TrieTests/hex_encoded_securetrie_test.json are identical
 Files go-ethereum/tests/files/TrieTests/trieanyorder.json and quorum/tests/files/TrieTests/trieanyorder.json are identical
@@ -803,24 +754,10 @@ Files go-ethereum/tests/files/VMTests/RandomTests/randomTest.json and quorum/tes
 Files go-ethereum/tests/files/VMTests/vmArithmeticTest.json and quorum/tests/files/VMTests/vmArithmeticTest.json are identical
 Files go-ethereum/tests/files/VMTests/vmBitwiseLogicOperationTest.json and quorum/tests/files/VMTests/vmBitwiseLogicOperationTest.json are identical
 Files go-ethereum/tests/files/VMTests/vmBlockInfoTest.json and quorum/tests/files/VMTests/vmBlockInfoTest.json are identical
-Files go-ethereum/tests/files/VMTests/vmEnvironmentalInfoTest.json and quorum/tests/files/VMTests/vmEnvironmentalInfoTest.json differ
-Files go-ethereum/tests/files/VMTests/vmIOandFlowOperationsTest.json and quorum/tests/files/VMTests/vmIOandFlowOperationsTest.json differ
 Files go-ethereum/tests/files/VMTests/vmInputLimits.json and quorum/tests/files/VMTests/vmInputLimits.json are identical
 Files go-ethereum/tests/files/VMTests/vmInputLimitsLight.json and quorum/tests/files/VMTests/vmInputLimitsLight.json are identical
 Files go-ethereum/tests/files/VMTests/vmLogTest.json and quorum/tests/files/VMTests/vmLogTest.json are identical
-Files go-ethereum/tests/files/VMTests/vmPerformanceTest.json and quorum/tests/files/VMTests/vmPerformanceTest.json differ
-Files go-ethereum/tests/files/VMTests/vmPushDupSwapTest.json and quorum/tests/files/VMTests/vmPushDupSwapTest.json differ
 Files go-ethereum/tests/files/VMTests/vmSha3Test.json and quorum/tests/files/VMTests/vmSha3Test.json are identical
-Files go-ethereum/tests/files/VMTests/vmSystemOperationsTest.json and quorum/tests/files/VMTests/vmSystemOperationsTest.json differ
 Files go-ethereum/tests/files/VMTests/vmtests.json and quorum/tests/files/VMTests/vmtests.json are identical
-Only in go-ethereum/tests/files: ansible
-Files go-ethereum/tests/init.go and quorum/tests/init.go differ
 Files go-ethereum/tests/rlp_test.go and quorum/tests/rlp_test.go are identical
 Files go-ethereum/tests/rlp_test_util.go and quorum/tests/rlp_test_util.go are identical
-Files go-ethereum/tests/state_test.go and quorum/tests/state_test.go differ
-Files go-ethereum/tests/state_test_util.go and quorum/tests/state_test_util.go differ
-Files go-ethereum/tests/transaction_test.go and quorum/tests/transaction_test.go differ
-Files go-ethereum/tests/transaction_test_util.go and quorum/tests/transaction_test_util.go differ
-Files go-ethereum/tests/util.go and quorum/tests/util.go differ
-Files go-ethereum/tests/vm_test.go and quorum/tests/vm_test.go differ
-Files go-ethereum/tests/vm_test_util.go and quorum/tests/vm_test_util.go differ
