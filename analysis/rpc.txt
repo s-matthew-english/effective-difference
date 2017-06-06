@@ -1,0 +1,25 @@
+Files go-ethereum/rpc/client.go and quorum/rpc/client.go differ
+Files go-ethereum/rpc/client_context_go1.4.go and quorum/rpc/client_context_go1.4.go are identical
+Files go-ethereum/rpc/client_context_go1.5.go and quorum/rpc/client_context_go1.5.go are identical
+Files go-ethereum/rpc/client_context_go1.6.go and quorum/rpc/client_context_go1.6.go are identical
+Files go-ethereum/rpc/client_context_go1.7.go and quorum/rpc/client_context_go1.7.go are identical
+Files go-ethereum/rpc/client_example_test.go and quorum/rpc/client_example_test.go are identical
+Files go-ethereum/rpc/client_test.go and quorum/rpc/client_test.go are identical
+Files go-ethereum/rpc/doc.go and quorum/rpc/doc.go are identical
+Files go-ethereum/rpc/errors.go and quorum/rpc/errors.go are identical
+Files go-ethereum/rpc/http.go and quorum/rpc/http.go are identical
+Files go-ethereum/rpc/inproc.go and quorum/rpc/inproc.go are identical
+Files go-ethereum/rpc/ipc.go and quorum/rpc/ipc.go are identical
+Files go-ethereum/rpc/ipc_unix.go and quorum/rpc/ipc_unix.go are identical
+Files go-ethereum/rpc/ipc_windows.go and quorum/rpc/ipc_windows.go are identical
+Files go-ethereum/rpc/json.go and quorum/rpc/json.go differ
+Files go-ethereum/rpc/json_test.go and quorum/rpc/json_test.go are identical
+Files go-ethereum/rpc/server.go and quorum/rpc/server.go differ
+Files go-ethereum/rpc/server_test.go and quorum/rpc/server_test.go are identical
+Files go-ethereum/rpc/subscription.go and quorum/rpc/subscription.go differ
+Files go-ethereum/rpc/subscription_test.go and quorum/rpc/subscription_test.go differ
+Files go-ethereum/rpc/types.go and quorum/rpc/types.go differ
+Only in quorum/rpc: types_test.go
+Files go-ethereum/rpc/utils.go and quorum/rpc/utils.go are identical
+Files go-ethereum/rpc/utils_test.go and quorum/rpc/utils_test.go are identical
+Files go-ethereum/rpc/websocket.go and quorum/rpc/websocket.go are identical

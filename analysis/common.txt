@@ -1,0 +1,31 @@
+Files go-ethereum/common/.gitignore and quorum/common/.gitignore are identical
+Files go-ethereum/common/.travis.yml and quorum/common/.travis.yml are identical
+Files go-ethereum/common/README.md and quorum/common/README.md are identical
+Files go-ethereum/common/big.go and quorum/common/big.go are identical
+Files go-ethereum/common/big_test.go and quorum/common/big_test.go differ
+Files go-ethereum/common/bytes.go and quorum/common/bytes.go differ
+Files go-ethereum/common/bytes_test.go and quorum/common/bytes_test.go differ
+Files go-ethereum/common/compiler/solidity.go and quorum/common/compiler/solidity.go differ
+Files go-ethereum/common/compiler/solidity_test.go and quorum/common/compiler/solidity_test.go differ
+Files go-ethereum/common/debug.go and quorum/common/debug.go are identical
+Files go-ethereum/common/format.go and quorum/common/format.go differ
+Only in go-ethereum/common: hexutil
+Only in quorum/common: httpclient
+Files go-ethereum/common/icap.go and quorum/common/icap.go are identical
+Files go-ethereum/common/icap_test.go and quorum/common/icap_test.go are identical
+Files go-ethereum/common/list.go and quorum/common/list.go are identical
+Files go-ethereum/common/main_test.go and quorum/common/main_test.go are identical
+Files go-ethereum/common/math/dist.go and quorum/common/math/dist.go are identical
+Files go-ethereum/common/math/dist_test.go and quorum/common/math/dist_test.go differ
+Only in go-ethereum/common/math: exp.go
+Only in go-ethereum/common: mclock
+Files go-ethereum/common/number/int.go and quorum/common/number/int.go are identical
+Files go-ethereum/common/number/uint_test.go and quorum/common/number/uint_test.go are identical
+Files go-ethereum/common/path.go and quorum/common/path.go are identical
+Only in quorum/common: registrar
+Files go-ethereum/common/size.go and quorum/common/size.go are identical
+Files go-ethereum/common/size_test.go and quorum/common/size_test.go are identical
+Files go-ethereum/common/test_utils.go and quorum/common/test_utils.go are identical
+Files go-ethereum/common/types.go and quorum/common/types.go differ
+Files go-ethereum/common/types_template.go and quorum/common/types_template.go are identical
+Files go-ethereum/common/types_test.go and quorum/common/types_test.go differ

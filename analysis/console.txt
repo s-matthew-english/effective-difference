@@ -1,0 +1,6 @@
+Files go-ethereum/console/bridge.go and quorum/console/bridge.go differ
+Files go-ethereum/console/console.go and quorum/console/console.go differ
+Files go-ethereum/console/console_test.go and quorum/console/console_test.go differ
+Files go-ethereum/console/prompter.go and quorum/console/prompter.go differ
+Files go-ethereum/console/testdata/exec.js and quorum/console/testdata/exec.js are identical
+Files go-ethereum/console/testdata/preload.js and quorum/console/testdata/preload.js are identical

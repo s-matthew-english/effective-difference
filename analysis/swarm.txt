@@ -1,0 +1,50 @@
+Files go-ethereum/swarm/api/api.go and quorum/swarm/api/api.go differ
+Files go-ethereum/swarm/api/api_test.go and quorum/swarm/api/api_test.go are identical
+Files go-ethereum/swarm/api/config.go and quorum/swarm/api/config.go differ
+Files go-ethereum/swarm/api/config_test.go and quorum/swarm/api/config_test.go differ
+Files go-ethereum/swarm/api/filesystem.go and quorum/swarm/api/filesystem.go differ
+Files go-ethereum/swarm/api/filesystem_test.go and quorum/swarm/api/filesystem_test.go differ
+Files go-ethereum/swarm/api/http/roundtripper.go and quorum/swarm/api/http/roundtripper.go differ
+Files go-ethereum/swarm/api/http/roundtripper_test.go and quorum/swarm/api/http/roundtripper_test.go differ
+Files go-ethereum/swarm/api/http/server.go and quorum/swarm/api/http/server.go differ
+Only in go-ethereum/swarm/api/http: server_test.go
+Files go-ethereum/swarm/api/manifest.go and quorum/swarm/api/manifest.go differ
+Files go-ethereum/swarm/api/manifest_test.go and quorum/swarm/api/manifest_test.go are identical
+Files go-ethereum/swarm/api/storage.go and quorum/swarm/api/storage.go are identical
+Files go-ethereum/swarm/api/storage_test.go and quorum/swarm/api/storage_test.go are identical
+Files go-ethereum/swarm/api/testapi.go and quorum/swarm/api/testapi.go are identical
+Files go-ethereum/swarm/api/testdata/test0/img/logo.png and quorum/swarm/api/testdata/test0/img/logo.png are identical
+Files go-ethereum/swarm/api/testdata/test0/index.css and quorum/swarm/api/testdata/test0/index.css are identical
+Files go-ethereum/swarm/api/testdata/test0/index.html and quorum/swarm/api/testdata/test0/index.html are identical
+Files go-ethereum/swarm/network/depo.go and quorum/swarm/network/depo.go differ
+Files go-ethereum/swarm/network/forwarding.go and quorum/swarm/network/forwarding.go are identical
+Files go-ethereum/swarm/network/hive.go and quorum/swarm/network/hive.go differ
+Files go-ethereum/swarm/network/kademlia/address.go and quorum/swarm/network/kademlia/address.go are identical
+Files go-ethereum/swarm/network/kademlia/address_test.go and quorum/swarm/network/kademlia/address_test.go are identical
+Files go-ethereum/swarm/network/kademlia/kaddb.go and quorum/swarm/network/kademlia/kaddb.go are identical
+Files go-ethereum/swarm/network/kademlia/kademlia.go and quorum/swarm/network/kademlia/kademlia.go are identical
+Files go-ethereum/swarm/network/kademlia/kademlia_test.go and quorum/swarm/network/kademlia/kademlia_test.go differ
+Files go-ethereum/swarm/network/messages.go and quorum/swarm/network/messages.go are identical
+Files go-ethereum/swarm/network/protocol.go and quorum/swarm/network/protocol.go differ
+Files go-ethereum/swarm/network/protocol_test.go and quorum/swarm/network/protocol_test.go differ
+Files go-ethereum/swarm/network/syncdb.go and quorum/swarm/network/syncdb.go are identical
+Files go-ethereum/swarm/network/syncdb_test.go and quorum/swarm/network/syncdb_test.go differ
+Files go-ethereum/swarm/network/syncer.go and quorum/swarm/network/syncer.go differ
+Files go-ethereum/swarm/services/swap/swap/swap.go and quorum/swarm/services/swap/swap/swap.go are identical
+Files go-ethereum/swarm/services/swap/swap/swap_test.go and quorum/swarm/services/swap/swap/swap_test.go are identical
+Files go-ethereum/swarm/services/swap/swap.go and quorum/swarm/services/swap/swap.go are identical
+Files go-ethereum/swarm/storage/chunker.go and quorum/swarm/storage/chunker.go differ
+Files go-ethereum/swarm/storage/chunker_test.go and quorum/swarm/storage/chunker_test.go are identical
+Files go-ethereum/swarm/storage/common_test.go and quorum/swarm/storage/common_test.go differ
+Files go-ethereum/swarm/storage/database.go and quorum/swarm/storage/database.go are identical
+Files go-ethereum/swarm/storage/dbstore.go and quorum/swarm/storage/dbstore.go differ
+Files go-ethereum/swarm/storage/dbstore_test.go and quorum/swarm/storage/dbstore_test.go differ
+Files go-ethereum/swarm/storage/dpa.go and quorum/swarm/storage/dpa.go differ
+Files go-ethereum/swarm/storage/dpa_test.go and quorum/swarm/storage/dpa_test.go differ
+Files go-ethereum/swarm/storage/localstore.go and quorum/swarm/storage/localstore.go differ
+Files go-ethereum/swarm/storage/memstore.go and quorum/swarm/storage/memstore.go differ
+Files go-ethereum/swarm/storage/memstore_test.go and quorum/swarm/storage/memstore_test.go are identical
+Files go-ethereum/swarm/storage/netstore.go and quorum/swarm/storage/netstore.go differ
+Files go-ethereum/swarm/storage/pyramid.go and quorum/swarm/storage/pyramid.go are identical
+Files go-ethereum/swarm/storage/types.go and quorum/swarm/storage/types.go differ
+Files go-ethereum/swarm/swarm.go and quorum/swarm/swarm.go differ

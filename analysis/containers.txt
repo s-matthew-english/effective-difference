@@ -1,0 +1,5 @@
+Files go-ethereum/containers/docker/develop-alpine/Dockerfile and quorum/containers/docker/develop-alpine/Dockerfile differ
+Files go-ethereum/containers/docker/develop-ubuntu/Dockerfile and quorum/containers/docker/develop-ubuntu/Dockerfile differ
+Files go-ethereum/containers/docker/master-alpine/Dockerfile and quorum/containers/docker/master-alpine/Dockerfile differ
+Files go-ethereum/containers/docker/master-ubuntu/Dockerfile and quorum/containers/docker/master-ubuntu/Dockerfile differ
+Files go-ethereum/containers/vagrant/Vagrantfile and quorum/containers/vagrant/Vagrantfile are identical

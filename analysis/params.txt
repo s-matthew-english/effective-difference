@@ -1,0 +1,8 @@
+Only in go-ethereum/params: bootnodes.go
+Only in go-ethereum/params: config.go
+Files go-ethereum/params/dao.go and quorum/params/dao.go are identical
+Files go-ethereum/params/gas_table.go and quorum/params/gas_table.go differ
+Files go-ethereum/params/protocol_params.go and quorum/params/protocol_params.go differ
+Only in quorum/params: quorum.go
+Files go-ethereum/params/util.go and quorum/params/util.go differ
+Only in go-ethereum/params: version.go

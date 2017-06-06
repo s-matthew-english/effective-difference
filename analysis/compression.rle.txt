@@ -1,0 +1,2 @@
+Files go-ethereum/compression/rle/read_write.go and quorum/compression/rle/read_write.go differ
+Files go-ethereum/compression/rle/read_write_test.go and quorum/compression/rle/read_write_test.go are identical

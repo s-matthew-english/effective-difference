@@ -1,0 +1,47 @@
+Files go-ethereum/cmd/abigen/main.go and quorum/cmd/abigen/main.go differ
+Files go-ethereum/cmd/bootnode/main.go and quorum/cmd/bootnode/main.go differ
+Files go-ethereum/cmd/disasm/main.go and quorum/cmd/disasm/main.go differ
+Only in quorum/cmd/ethtest: .bowerrc
+Only in quorum/cmd/ethtest: .editorconfig
+Only in quorum/cmd/ethtest: .gitignore
+Only in quorum/cmd/ethtest: .jshintrc
+Only in quorum/cmd/ethtest: .npmignore
+Only in quorum/cmd/ethtest: .travis.yml
+Files go-ethereum/cmd/ethtest/main.go and quorum/cmd/ethtest/main.go differ
+Only in quorum/cmd/evm: code.txt
+Only in quorum/cmd/evm: input.txt
+Files go-ethereum/cmd/evm/main.go and quorum/cmd/evm/main.go differ
+Files go-ethereum/cmd/geth/accountcmd.go and quorum/cmd/geth/accountcmd.go differ
+Files go-ethereum/cmd/geth/accountcmd_test.go and quorum/cmd/geth/accountcmd_test.go differ
+Files go-ethereum/cmd/geth/chaincmd.go and quorum/cmd/geth/chaincmd.go differ
+Files go-ethereum/cmd/geth/consolecmd.go and quorum/cmd/geth/consolecmd.go differ
+Files go-ethereum/cmd/geth/consolecmd_test.go and quorum/cmd/geth/consolecmd_test.go differ
+Only in go-ethereum/cmd/geth: dao_test.go
+Files go-ethereum/cmd/geth/genesis_test.go and quorum/cmd/geth/genesis_test.go are identical
+Only in quorum/cmd/geth: info_test.json
+Only in quorum/cmd/geth: library.c
+Only in quorum/cmd/geth: library.go
+Only in quorum/cmd/geth: library_android.go
+Files go-ethereum/cmd/geth/main.go and quorum/cmd/geth/main.go differ
+Only in go-ethereum/cmd/geth: misccmd.go
+Files go-ethereum/cmd/geth/monitorcmd.go and quorum/cmd/geth/monitorcmd.go differ
+Files go-ethereum/cmd/geth/run_test.go and quorum/cmd/geth/run_test.go are identical
+Files go-ethereum/cmd/geth/testdata/empty.js and quorum/cmd/geth/testdata/empty.js are identical
+Files go-ethereum/cmd/geth/testdata/guswallet.json and quorum/cmd/geth/testdata/guswallet.json are identical
+Files go-ethereum/cmd/geth/testdata/passwords.txt and quorum/cmd/geth/testdata/passwords.txt are identical
+Files go-ethereum/cmd/geth/testdata/wrong-passwords.txt and quorum/cmd/geth/testdata/wrong-passwords.txt are identical
+Files go-ethereum/cmd/geth/usage.go and quorum/cmd/geth/usage.go differ
+Files go-ethereum/cmd/gethrpctest/main.go and quorum/cmd/gethrpctest/main.go differ
+Files go-ethereum/cmd/rlpdump/main.go and quorum/cmd/rlpdump/main.go are identical
+Only in go-ethereum/cmd: swarm
+Only in quorum/cmd/utils: bootnodes.go
+Files go-ethereum/cmd/utils/cmd.go and quorum/cmd/utils/cmd.go differ
+Files go-ethereum/cmd/utils/customflags.go and quorum/cmd/utils/customflags.go differ
+Files go-ethereum/cmd/utils/customflags_test.go and quorum/cmd/utils/customflags_test.go are identical
+Files go-ethereum/cmd/utils/fdlimit_freebsd.go and quorum/cmd/utils/fdlimit_freebsd.go are identical
+Files go-ethereum/cmd/utils/fdlimit_test.go and quorum/cmd/utils/fdlimit_test.go are identical
+Files go-ethereum/cmd/utils/fdlimit_unix.go and quorum/cmd/utils/fdlimit_unix.go are identical
+Files go-ethereum/cmd/utils/fdlimit_windows.go and quorum/cmd/utils/fdlimit_windows.go are identical
+Files go-ethereum/cmd/utils/flags.go and quorum/cmd/utils/flags.go differ
+Only in quorum/cmd/utils: version.go
+Only in go-ethereum/cmd: wnode
